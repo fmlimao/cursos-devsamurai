@@ -5290,6 +5290,25 @@
           "dataUpload": "2025-09-12T23:07:01.811Z"
         }
       ]
+    },
+    {
+      "nome": "Monitoria Aberta",
+      "aulas": [
+        {
+          "nome": "2024-01-18 19.59.59 Monitoria Aberta com Felipe Fontoura - Tema aberto.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Monitoria Aberta/2024-01-18 19.59.59 Monitoria Aberta com Felipe Fontoura - Tema aberto.mp4",
+          "tamanho": 1316308425,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:40:05.106Z"
+        },
+        {
+          "nome": "2024-02-01 19.56.37 Monitoria Aberta com Felipe Fontoura.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Monitoria Aberta/2024-02-01 19.56.37 Monitoria Aberta com Felipe Fontoura.mp4",
+          "tamanho": 683308645,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:42:03.450Z"
+        }
+      ]
     }
   ]
 }
