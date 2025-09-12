@@ -84,7 +84,10 @@ async function uploadVideo(video, courseName) {
     }
 
     // Faz o upload do vídeo
-    console.log(`   📤 Enviando ${video.name}...`);
+    const fileSize = fs.statSync(video.localPath).size;
+    const fileSizeMB = (fileSize / (1024 * 1024)).toFixed(1);
+    console.log(`   📤 Enviando ${video.name} (${fileSizeMB} MB)...`);
+    
     await bucket.upload(video.localPath, {
       destination: video.bucketPath,
       metadata: {
@@ -94,7 +97,7 @@ async function uploadVideo(video, courseName) {
     });
 
     const publicUrl = `https://storage.googleapis.com/${BUCKET_NAME}/${video.bucketPath}`;
-    console.log(`   ✅ ${video.name} enviado com sucesso!`);
+    console.log(`   ✅ ${video.name} enviado com sucesso! (${fileSizeMB} MB)`);
 
     return {
       success: true,
@@ -235,14 +238,28 @@ async function main() {
     console.log('\n🚀 Iniciando upload dos vídeos...');
     const uploadResults = {};
 
+    // Calcula total de vídeos para progresso geral
+    const totalVideos = courses.reduce((sum, course) => sum + course.totalVideos, 0);
+    let processedVideos = 0;
+
     for (const course of courses) {
-      console.log(`\n📚 Processando curso: ${course.name}`);
+      console.log(`\n📚 Processando curso: ${course.name} (${course.totalVideos} vídeo(s))`);
       uploadResults[course.name] = [];
 
-      for (const video of course.videos) {
+      for (let i = 0; i < course.videos.length; i++) {
+        const video = course.videos[i];
         const result = await uploadVideo(video, course.name);
         uploadResults[course.name].push(result);
+        
+        // Atualiza contadores
+        processedVideos++;
+        const courseProgress = Math.round(((i + 1) / course.totalVideos) * 100);
+        const overallProgress = Math.round((processedVideos / totalVideos) * 100);
+        
+        console.log(`   📊 Curso: ${courseProgress}% (${i + 1}/${course.totalVideos}) | Geral: ${overallProgress}% (${processedVideos}/${totalVideos})`);
       }
+      
+      console.log(`   ✅ Curso "${course.name}" concluído!`);
     }
 
     // 4. Atualizar banco de dados
@@ -250,15 +267,19 @@ async function main() {
 
     // 5. Resumo final
     console.log('\n📊 RESUMO FINAL:');
-    console.log('─'.repeat(50));
+    console.log('═'.repeat(60));
 
     let totalUploaded = 0;
     let totalSkipped = 0;
     let totalErrors = 0;
+    let totalSizeUploaded = 0;
 
     for (const course of courses) {
-      console.log(`\n📚 ${course.name}:`);
+      console.log(`\n📚 ${course.name} (${course.totalVideos} vídeo(s)):`);
       const results = uploadResults[course.name];
+      let courseUploaded = 0;
+      let courseSkipped = 0;
+      let courseErrors = 0;
 
       for (let i = 0; i < results.length; i++) {
         const result = results[i];
@@ -268,24 +289,40 @@ async function main() {
           if (result.skipped) {
             console.log(`   ⏭️  ${video.name} (já existia)`);
             totalSkipped++;
+            courseSkipped++;
           } else {
-            console.log(`   ✅ ${video.name}`);
+            const fileSize = fs.statSync(video.localPath).size;
+            const fileSizeMB = (fileSize / (1024 * 1024)).toFixed(1);
+            console.log(`   ✅ ${video.name} (${fileSizeMB} MB)`);
             totalUploaded++;
+            courseUploaded++;
+            totalSizeUploaded += fileSize;
           }
         } else {
           console.log(`   ❌ ${video.name} (erro: ${result.error})`);
           totalErrors++;
+          courseErrors++;
         }
       }
+
+      // Resumo do curso
+      console.log(`   📊 Curso: ${courseUploaded} enviados, ${courseSkipped} pulados, ${courseErrors} erros`);
     }
 
-    console.log('\n📈 ESTATÍSTICAS:');
-    console.log(`   ✅ Enviados: ${totalUploaded}`);
-    console.log(`   ⏭️  Pulados: ${totalSkipped}`);
-    console.log(`   ❌ Erros: ${totalErrors}`);
-    console.log(`   📚 Cursos: ${database.cursos.length}`);
+    console.log('\n📈 ESTATÍSTICAS GERAIS:');
+    console.log('─'.repeat(40));
+    console.log(`   ✅ Enviados: ${totalUploaded} vídeo(s)`);
+    console.log(`   ⏭️  Pulados: ${totalSkipped} vídeo(s)`);
+    console.log(`   ❌ Erros: ${totalErrors} vídeo(s)`);
+    console.log(`   📚 Cursos processados: ${courses.length}`);
+    console.log(`   📹 Total de vídeos: ${totalVideos}`);
+    
+    if (totalSizeUploaded > 0) {
+      const totalSizeGB = (totalSizeUploaded / (1024 * 1024 * 1024)).toFixed(2);
+      console.log(`   💾 Tamanho total enviado: ${totalSizeGB} GB`);
+    }
 
-    console.log('\n🎉 Job concluído!');
+    console.log('\n🎉 Job concluído com sucesso!');
 
   } catch (error) {
     console.error('💥 Erro fatal:', error.message);

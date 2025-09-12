@@ -510,6 +510,438 @@
           "dataUpload": "2025-09-12T04:06:30.787Z"
         }
       ]
+    },
+    {
+      "nome": "Backend - Dominando o NodeJS",
+      "aulas": [
+        {
+          "nome": "0101 - Conceitos básicos sobre o NodeJS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0101 - Conceitos básicos sobre o NodeJS.mp4",
+          "tamanho": 38475600,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.013Z"
+        },
+        {
+          "nome": "0102 - Conceitos básicos de uma API REST.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0102 - Conceitos básicos de uma API REST.mp4",
+          "tamanho": 27699400,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.015Z"
+        },
+        {
+          "nome": "0103 - Conceitos básicos do JSON.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0103 - Conceitos básicos do JSON.mp4",
+          "tamanho": 10206828,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.015Z"
+        },
+        {
+          "nome": "0104 - Instalando o NodeJS + NPM.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0104 - Instalando o NodeJS + NPM.mp4",
+          "tamanho": 42954771,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.015Z"
+        },
+        {
+          "nome": "0105 - Instalando o Yarn.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0105 - Instalando o Yarn.mp4",
+          "tamanho": 11546576,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.015Z"
+        },
+        {
+          "nome": "0201 - Como criar uma aplicação e instalar os pacotes iniciais.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0201 - Como criar uma aplicação e instalar os pacotes iniciais.mp4",
+          "tamanho": 23543050,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.015Z"
+        },
+        {
+          "nome": "0202 - Criando um servidor ExpressJS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0202 - Criando um servidor ExpressJS.mp4",
+          "tamanho": 50164010,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.015Z"
+        },
+        {
+          "nome": "0203 - Consumindo os parâmetros de Query e Route.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0203 - Consumindo os parâmetros de Query e Route.mp4",
+          "tamanho": 53612504,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.015Z"
+        },
+        {
+          "nome": "0301 - Principais ferramentas auxiliares.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0301 - Principais ferramentas auxiliares.mp4",
+          "tamanho": 18868253,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.015Z"
+        },
+        {
+          "nome": "0302 - Utilizando o Insomnia.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0302 - Utilizando o Insomnia.mp4",
+          "tamanho": 21969661,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.015Z"
+        },
+        {
+          "nome": "0303 - Utilizando o Nodemon.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0303 - Utilizando o Nodemon.mp4",
+          "tamanho": 17948585,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.015Z"
+        },
+        {
+          "nome": "0401 - O que é o padrão REST.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0401 - O que é o padrão REST.mp4",
+          "tamanho": 26708616,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.015Z"
+        },
+        {
+          "nome": "0402 - Listagem dos registros.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0402 - Listagem dos registros.mp4",
+          "tamanho": 27317607,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.016Z"
+        },
+        {
+          "nome": "0403 - Inserção de registros.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0403 - Inserção de registros.mp4",
+          "tamanho": 27384712,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.016Z"
+        },
+        {
+          "nome": "0404 - Atualização de registros.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0404 - Atualização de registros.mp4",
+          "tamanho": 22523813,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.016Z"
+        },
+        {
+          "nome": "0405 - Exclusão de registros.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0405 - Exclusão de registros.mp4",
+          "tamanho": 20548850,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.016Z"
+        },
+        {
+          "nome": "0501 - Debugando com o Consolelog.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0501 - Debugando com o Consolelog.mp4",
+          "tamanho": 30552420,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.016Z"
+        },
+        {
+          "nome": "0502 - Debugando via Visual Studio Code.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0502 - Debugando via Visual Studio Code.mp4",
+          "tamanho": 46196709,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.016Z"
+        },
+        {
+          "nome": "0601 - Configurando uma estrutura moderna.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0601 - Configurando uma estrutura moderna.mp4",
+          "tamanho": 73979896,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.016Z"
+        },
+        {
+          "nome": "0602 - Configurando uma estrutura de controllers.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0602 - Configurando uma estrutura de controllers.mp4",
+          "tamanho": 74064939,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.016Z"
+        },
+        {
+          "nome": "0603 - Ajustando as sintaxes de import.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0603 - Ajustando as sintaxes de import.mp4",
+          "tamanho": 33095078,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.016Z"
+        },
+        {
+          "nome": "0604 - ESLint, Prettier e EditorConfig.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0604 - ESLint, Prettier e EditorConfig.mp4",
+          "tamanho": 113118024,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0701 - O que é um ORM.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0701 - O que é um ORM.mp4",
+          "tamanho": 25587114,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0702 - Instalando e utilizando o Sequelize.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0702 - Instalando e utilizando o Sequelize.mp4",
+          "tamanho": 48014698,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0703 - Criando o model Customer.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0703 - Criando o model Customer.mp4",
+          "tamanho": 93507154,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0704 - Criando o model Contact.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0704 - Criando o model Contact.mp4",
+          "tamanho": 45747271,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0705 - Criando o model User.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0705 - Criando o model User.mp4",
+          "tamanho": 20049479,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0706 - Carregando os models no projeto.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0706 - Carregando os models no projeto.mp4",
+          "tamanho": 65451326,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0707 - Alterando models (quando necessário).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0707 - Alterando models (quando necessário).mp4",
+          "tamanho": 95276803,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0801 - Preparando o playground.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0801 - Preparando o playground.mp4",
+          "tamanho": 26729810,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0802 - Selecionando atributos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0802 - Selecionando atributos.mp4",
+          "tamanho": 18581295,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0803 - Filtros (where).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0803 - Filtros (where).mp4",
+          "tamanho": 79150475,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0804 - Inclusão (join).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0804 - Inclusão (join).mp4",
+          "tamanho": 40232419,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0805 - Ordenação (order).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0805 - Ordenação (order).mp4",
+          "tamanho": 18632836,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0806 - Paginação (limit e offset).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0806 - Paginação (limit e offset).mp4",
+          "tamanho": 20263407,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0807 - Funções de agregação (min, max, sum, count).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0807 - Funções de agregação (min, max, sum, count).mp4",
+          "tamanho": 26414351,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0808 - Escopos (scopes).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0808 - Escopos (scopes).mp4",
+          "tamanho": 65028501,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0809 - Criação (insert).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0809 - Criação (insert).mp4",
+          "tamanho": 15458638,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0810 - Atualização (update).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0810 - Atualização (update).mp4",
+          "tamanho": 16398741,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0811 - Exclusão (delete).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0811 - Exclusão (delete).mp4",
+          "tamanho": 6115516,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0812 - Ganchos de execução (Hooks).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0812 - Ganchos de execução (Hooks).mp4",
+          "tamanho": 24300137,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0901 - O que é uma arquitetura MVC.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0901 - O que é uma arquitetura MVC.mp4",
+          "tamanho": 60695658,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0902 - Criando o Controller Customer - Parte 1.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0902 - Criando o Controller Customer - Parte 1.mp4",
+          "tamanho": 175721516,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0903 - Criando o Controller Customer - Parte 2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0903 - Criando o Controller Customer - Parte 2.mp4",
+          "tamanho": 123182707,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0904 - Criando o Controller Contact.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0904 - Criando o Controller Contact.mp4",
+          "tamanho": 147197619,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.018Z"
+        },
+        {
+          "nome": "0905 - Criando o Controller User.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/0905 - Criando o Controller User.mp4",
+          "tamanho": 179548846,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1001 - O que é um Middleware.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1001 - O que é um Middleware.mp4",
+          "tamanho": 7471727,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1002 - Criando um Middleware no ExpressJS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1002 - Criando um Middleware no ExpressJS.mp4",
+          "tamanho": 92393712,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1101 - Formas de se autenticar uma API.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1101 - Formas de se autenticar uma API.mp4",
+          "tamanho": 10729054,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1102 - Criando o token de autenticação.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1102 - Criando o token de autenticação.mp4",
+          "tamanho": 71771462,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1103 - Validando o token de autenticação na API.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1103 - Validando o token de autenticação na API.mp4",
+          "tamanho": 111446166,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1201 - Como funciona upload de arquivos e fotos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1201 - Como funciona upload de arquivos e fotos.mp4",
+          "tamanho": 15595715,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1202 - Configurando o Multer.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1202 - Configurando o Multer.mp4",
+          "tamanho": 88512033,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1203 - Criando o controller FilesController.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1203 - Criando o controller FilesController.mp4",
+          "tamanho": 117391994,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1301 - Configurando o Nodemailer e enviando emails no sistema.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1301 - Configurando o Nodemailer e enviando emails no sistema.mp4",
+          "tamanho": 64109204,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1401 - Como funciona uma fila de execução.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1401 - Como funciona uma fila de execução.mp4",
+          "tamanho": 7775281,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1402 - Instalando a fila de excecução no projeto.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1402 - Instalando a fila de excecução no projeto.mp4",
+          "tamanho": 110367146,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1403 - Enviando emails por fila.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1403 - Enviando emails por fila.mp4",
+          "tamanho": 49174959,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1501 - Configuração (dotenv).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1501 - Configuração (dotenv).mp4",
+          "tamanho": 59460497,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1502 - Tratamentos de erros.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1502 - Tratamentos de erros.mp4",
+          "tamanho": 52206030,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.019Z"
+        },
+        {
+          "nome": "1503 - Monitoramento de erros.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o NodeJS/1503 - Monitoramento de erros.mp4",
+          "tamanho": 43230228,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:26:43.020Z"
+        }
+      ]
     }
   ]
 }
