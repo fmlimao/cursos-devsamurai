@@ -138,6 +138,121 @@
             border-radius: 15px;
         }
 
+        .custom-controls {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: linear-gradient(transparent, rgba(0,0,0,0.9));
+            padding: 15px 20px 20px;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .video-container:hover .custom-controls {
+            opacity: 1;
+        }
+
+        .progress-container {
+            position: relative;
+            margin-bottom: 15px;
+            cursor: pointer;
+        }
+
+        .progress-bar-bg {
+            width: 100%;
+            height: 4px;
+            background: rgba(255,255,255,0.3);
+            border-radius: 2px;
+            overflow: hidden;
+        }
+
+        .progress-bar-fill {
+            height: 100%;
+            background: #00d4ff;
+            border-radius: 2px;
+            transition: width 0.1s ease;
+        }
+
+        .progress-bar-handle {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 12px;
+            height: 12px;
+            background: #00d4ff;
+            border-radius: 50%;
+            border: 2px solid white;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+            transition: all 0.1s ease;
+        }
+
+        .progress-container:hover .progress-bar-handle {
+            transform: translateY(-50%) scale(1.2);
+        }
+
+        .controls-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .speed-controls {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .speed-btn {
+            background: rgba(255,255,255,0.1);
+            color: rgba(255,255,255,0.7);
+            border: none;
+            padding: 4px 8px;
+            border-radius: 12px;
+            cursor: pointer;
+            font-size: 0.75rem;
+            font-weight: 500;
+            transition: all 0.2s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .speed-btn:hover {
+            background: rgba(0,212,255,0.3);
+            color: white;
+        }
+
+        .speed-btn.active {
+            background: rgba(0,212,255,0.6);
+            color: white;
+        }
+
+        .play-pause-btn {
+            background: rgba(0,212,255,0.8);
+            color: white;
+            border: none;
+            padding: 10px 14px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .play-pause-btn:hover {
+            background: #00d4ff;
+            transform: scale(1.05);
+        }
+
+        .time-display {
+            color: rgba(255,255,255,0.9);
+            font-size: 0.8rem;
+            font-weight: 500;
+            background: rgba(0,0,0,0.4);
+            padding: 4px 8px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+        }
+
         .video-info {
             text-align: center;
             margin-bottom: 30px;
@@ -499,9 +614,29 @@
                     </div>
 
                     <div class="video-container">
-                        <video id="video-player" class="video-player" controls>
+                        <video id="video-player" class="video-player">
                             Seu navegador não suporta vídeos HTML5.
                         </video>
+                        <div class="custom-controls">
+                            <div class="progress-container" id="progress-container">
+                                <div class="progress-bar-bg">
+                                    <div class="progress-bar-fill" id="progress-bar-fill"></div>
+                                </div>
+                                <div class="progress-bar-handle" id="progress-bar-handle"></div>
+                            </div>
+                            <div class="controls-row">
+                                <div class="speed-controls">
+                                    <button class="speed-btn" data-speed="0.5">0.5x</button>
+                                    <button class="speed-btn" data-speed="0.75">0.75x</button>
+                                    <button class="speed-btn active" data-speed="1">1x</button>
+                                    <button class="speed-btn" data-speed="1.25">1.25x</button>
+                                    <button class="speed-btn" data-speed="1.5">1.5x</button>
+                                    <button class="speed-btn" data-speed="2">2x</button>
+                                </div>
+                                <button class="play-pause-btn" id="play-pause-btn">▶</button>
+                                <div class="time-display" id="time-display">00:00 / 00:00</div>
+                            </div>
+                        </div>
                     </div>
 
                     <div class="navigation">
@@ -780,10 +915,114 @@
                 // Atualiza a lista de aulas para mostrar que foi assistida
                 loadLessons();
 
-        // Atualiza as informações do curso atual
-        updateCurrentCourseInfo();
-    });
-}
+                // Atualiza as informações do curso atual
+                updateCurrentCourseInfo();
+            });
+        }
+
+        // Configura os controles customizados do player
+        function setupCustomPlayerControls() {
+            const videoPlayer = document.getElementById('video-player');
+            const playPauseBtn = document.getElementById('play-pause-btn');
+            const timeDisplay = document.getElementById('time-display');
+            const speedBtns = document.querySelectorAll('.speed-btn');
+            const progressContainer = document.getElementById('progress-container');
+            const progressBarFill = document.getElementById('progress-bar-fill');
+            const progressBarHandle = document.getElementById('progress-bar-handle');
+
+            let isDragging = false;
+
+            // Controle de play/pause
+            playPauseBtn.addEventListener('click', function() {
+                if (videoPlayer.paused) {
+                    videoPlayer.play();
+                    playPauseBtn.textContent = '⏸';
+                } else {
+                    videoPlayer.pause();
+                    playPauseBtn.textContent = '▶';
+                }
+            });
+
+            // Atualiza o botão quando o vídeo muda de estado
+            videoPlayer.addEventListener('play', function() {
+                playPauseBtn.textContent = '⏸';
+            });
+
+            videoPlayer.addEventListener('pause', function() {
+                playPauseBtn.textContent = '▶';
+            });
+
+            // Controle de velocidade
+            speedBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const speed = parseFloat(this.dataset.speed);
+                    videoPlayer.playbackRate = speed;
+
+                    // Atualiza visual dos botões
+                    speedBtns.forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                });
+            });
+
+            // Controle da barra de progresso
+            progressContainer.addEventListener('click', function(e) {
+                if (videoPlayer.duration) {
+                    const rect = progressContainer.getBoundingClientRect();
+                    const clickX = e.clientX - rect.left;
+                    const percentage = clickX / rect.width;
+                    const newTime = percentage * videoPlayer.duration;
+                    videoPlayer.currentTime = newTime;
+                }
+            });
+
+            // Drag da barra de progresso
+            progressBarHandle.addEventListener('mousedown', function(e) {
+                isDragging = true;
+                e.preventDefault();
+            });
+
+            document.addEventListener('mousemove', function(e) {
+                if (isDragging && videoPlayer.duration) {
+                    const rect = progressContainer.getBoundingClientRect();
+                    const mouseX = e.clientX - rect.left;
+                    const percentage = Math.max(0, Math.min(1, mouseX / rect.width));
+                    const newTime = percentage * videoPlayer.duration;
+                    videoPlayer.currentTime = newTime;
+                }
+            });
+
+            document.addEventListener('mouseup', function() {
+                isDragging = false;
+            });
+
+            // Atualiza a barra de progresso
+            videoPlayer.addEventListener('timeupdate', function() {
+                if (!isDragging && videoPlayer.duration) {
+                    const percentage = (videoPlayer.currentTime / videoPlayer.duration) * 100;
+                    progressBarFill.style.width = percentage + '%';
+                    progressBarHandle.style.left = percentage + '%';
+                }
+
+                const currentTime = formatTime(videoPlayer.currentTime);
+                const duration = formatTime(videoPlayer.duration);
+                timeDisplay.textContent = `${currentTime} / ${duration}`;
+            });
+
+            // Atualiza quando o vídeo carrega
+            videoPlayer.addEventListener('loadedmetadata', function() {
+                const duration = formatTime(videoPlayer.duration);
+                timeDisplay.textContent = `00:00 / ${duration}`;
+            });
+        }
+
+        // Formata tempo em MM:SS
+        function formatTime(seconds) {
+            if (isNaN(seconds)) return '00:00';
+
+            const mins = Math.floor(seconds / 60);
+            const secs = Math.floor(seconds % 60);
+            return `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+        }
 
         // Atualiza as informações do curso atual
         function updateCurrentCourseInfo() {
@@ -869,6 +1108,7 @@
         document.addEventListener('DOMContentLoaded', function() {
             loadCourses();
             setupVideoProgressTracking();
+            setupCustomPlayerControls();
 
             // Listener para mudanças na URL
             window.addEventListener('hashchange', function() {
