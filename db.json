@@ -1799,6 +1799,414 @@
           "dataUpload": "2025-09-12T15:02:45.787Z"
         }
       ]
+    },
+    {
+      "nome": "Flutter - Calculadora IMC",
+      "aulas": [
+        {
+          "nome": "0601 - Calculadora IMC - Parte 1.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Calculadora IMC/0601 - Calculadora IMC - Parte 1.mp4",
+          "tamanho": 345755586,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.786Z"
+        },
+        {
+          "nome": "0601 - Calculadora IMC - Parte 2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Calculadora IMC/0601 - Calculadora IMC - Parte 2.mp4",
+          "tamanho": 192644450,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.786Z"
+        }
+      ]
+    },
+    {
+      "nome": "Flutter - Fluck Noris",
+      "aulas": [
+        {
+          "nome": "1001 - Aplicativo Fluck Norris - Criando o projeto.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Fluck Noris/1001 - Aplicativo Fluck Norris - Criando o projeto.mp4",
+          "tamanho": 125200218,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.786Z"
+        },
+        {
+          "nome": "1002 - Aplicativo Fluck Norris - Tratando erros de API.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Fluck Noris/1002 - Aplicativo Fluck Norris - Tratando erros de API.mp4",
+          "tamanho": 45013349,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.786Z"
+        },
+        {
+          "nome": "1003 - Aplicativo Fluck Norris - Ajustando a listagem.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Fluck Noris/1003 - Aplicativo Fluck Norris - Ajustando a listagem.mp4",
+          "tamanho": 48623988,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.786Z"
+        },
+        {
+          "nome": "1004 - Aplicativo Fluck Norris - Navegação.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Fluck Noris/1004 - Aplicativo Fluck Norris - Navegação.mp4",
+          "tamanho": 48532814,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.786Z"
+        },
+        {
+          "nome": "1005 - Aplicativo Fluck Norris - Recuperando dados.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Fluck Noris/1005 - Aplicativo Fluck Norris - Recuperando dados.mp4",
+          "tamanho": 62563340,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.786Z"
+        },
+        {
+          "nome": "1006 - Aplicativo Fluck Norris - Finalizando a aplicação.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Fluck Noris/1006 - Aplicativo Fluck Norris - Finalizando a aplicação.mp4",
+          "tamanho": 96412459,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.786Z"
+        }
+      ]
+    },
+    {
+      "nome": "Flutter - Lista de Leituras",
+      "aulas": [
+        {
+          "nome": "0901 - Aplicativo Lista de Leituras - Apresentando o projeto.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Lista de Leituras/0901 - Aplicativo Lista de Leituras - Apresentando o projeto.mp4",
+          "tamanho": 7173661,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.787Z"
+        },
+        {
+          "nome": "0902 - Aplicativo Lista de Leituras - Adicionando fonte.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Lista de Leituras/0902 - Aplicativo Lista de Leituras - Adicionando fonte.mp4",
+          "tamanho": 46610905,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.787Z"
+        },
+        {
+          "nome": "0903 - Aplicativo Lista de Leituras - Iniciando protótipo da tela.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Lista de Leituras/0903 - Aplicativo Lista de Leituras - Iniciando protótipo da tela.mp4",
+          "tamanho": 111314293,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.787Z"
+        },
+        {
+          "nome": "0904 - Aplicativo Lista de Leituras - Finalizando a tela de listagem.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Lista de Leituras/0904 - Aplicativo Lista de Leituras - Finalizando a tela de listagem.mp4",
+          "tamanho": 77924342,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.787Z"
+        },
+        {
+          "nome": "0905 - Aplicativo Lista de Leituras - Navegação direta.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Lista de Leituras/0905 - Aplicativo Lista de Leituras - Navegação direta.mp4",
+          "tamanho": 33797306,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.787Z"
+        },
+        {
+          "nome": "0906 - Aplicativo Lista de Leituras - Navegação com rotas nomeadas.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Lista de Leituras/0906 - Aplicativo Lista de Leituras - Navegação com rotas nomeadas.mp4",
+          "tamanho": 22387375,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.787Z"
+        },
+        {
+          "nome": "0907 - Aplicativo Lista de Leituras - Formulario de novo livro.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Lista de Leituras/0907 - Aplicativo Lista de Leituras - Formulario de novo livro.mp4",
+          "tamanho": 149351255,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.787Z"
+        },
+        {
+          "nome": "0908 - Aplicativo Lista de Leituras - Adicionando um livro.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Lista de Leituras/0908 - Aplicativo Lista de Leituras - Adicionando um livro.mp4",
+          "tamanho": 41687943,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.787Z"
+        },
+        {
+          "nome": "0909 - Aplicativo Lista de Leituras - Editando valores.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Lista de Leituras/0909 - Aplicativo Lista de Leituras - Editando valores.mp4",
+          "tamanho": 97045463,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.787Z"
+        },
+        {
+          "nome": "0910 - Aplicativo Lista de Leituras - Refatorando o cadastro.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Lista de Leituras/0910 - Aplicativo Lista de Leituras - Refatorando o cadastro.mp4",
+          "tamanho": 25783345,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.788Z"
+        },
+        {
+          "nome": "0911 - Aplicativo Lista de Leituras - Apagando registros.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter - Lista de Leituras/0911 - Aplicativo Lista de Leituras - Apagando registros.mp4",
+          "tamanho": 50488131,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.788Z"
+        }
+      ]
+    },
+    {
+      "nome": "Flutter Avançado",
+      "aulas": [
+        {
+          "nome": "0701 - Material x Cupertino.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Avançado/0701 - Material x Cupertino.mp4",
+          "tamanho": 79282928,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.788Z"
+        },
+        {
+          "nome": "0801 - Erros comuns de layout.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Avançado/0801 - Erros comuns de layout.mp4",
+          "tamanho": 89136878,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.788Z"
+        },
+        {
+          "nome": "1101 - Animações Ímplicitas - Animated Opacity.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Avançado/1101 - Animações Ímplicitas - Animated Opacity.mp4",
+          "tamanho": 59042837,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.788Z"
+        },
+        {
+          "nome": "1102 - Animações Ímplicitas - AnimatedContainer.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Avançado/1102 - Animações Ímplicitas - AnimatedContainer.mp4",
+          "tamanho": 44950346,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.788Z"
+        },
+        {
+          "nome": "1103 - Animações Ímplicitas - AnimatedCrossFade.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Avançado/1103 - Animações Ímplicitas - AnimatedCrossFade.mp4",
+          "tamanho": 41714730,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.788Z"
+        },
+        {
+          "nome": "1104 - Animações Ímplicitas - AnimatedPositioned.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Avançado/1104 - Animações Ímplicitas - AnimatedPositioned.mp4",
+          "tamanho": 42883935,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "1105 - Animações Ímplicitas - AnimatedList.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Avançado/1105 - Animações Ímplicitas - AnimatedList.mp4",
+          "tamanho": 89320025,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "1201 - Animações Explícitas - Entendendo como funciona.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Avançado/1201 - Animações Explícitas - Entendendo como funciona.mp4",
+          "tamanho": 89364126,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "1202 - Animações Explícitas - Reverse.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Avançado/1202 - Animações Explícitas - Reverse.mp4",
+          "tamanho": 9072993,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "1203 - Animações Explícitas - Tween.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Avançado/1203 - Animações Explícitas - Tween.mp4",
+          "tamanho": 32130935,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "1204 - Animações Explícitas - Otimizando.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Avançado/1204 - Animações Explícitas - Otimizando.mp4",
+          "tamanho": 21704875,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "1301 - Testes - Introdução e Teste Básico.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Avançado/1301 - Testes - Introdução e Teste Básico.mp4",
+          "tamanho": 101924658,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "1302 - Testes - Testando o Lista de Leitura.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Avançado/1302 - Testes - Testando o Lista de Leitura.mp4",
+          "tamanho": 169115171,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        }
+      ]
+    },
+    {
+      "nome": "Flutter Básico",
+      "aulas": [
+        {
+          "nome": "0101 - Introdução Flutter.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0101 - Introdução Flutter.mp4",
+          "tamanho": 44720004,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "0201 - Intro Dart.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0201 - Intro Dart.mp4",
+          "tamanho": 16352305,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "0202 - Variaveis Dart.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0202 - Variaveis Dart.mp4",
+          "tamanho": 35497527,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "0203 - Decisão Dart.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0203 - Decisão Dart.mp4",
+          "tamanho": 22021267,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "0204 - Repeticao Dart.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0204 - Repeticao Dart.mp4",
+          "tamanho": 20894282,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "0205 - Operadores Dart.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0205 - Operadores Dart.mp4",
+          "tamanho": 13048311,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "0206 - Peculiaridades Dart.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0206 - Peculiaridades Dart.mp4",
+          "tamanho": 59742837,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "0207 - Exemplo Dart.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0207 - Exemplo Dart.mp4",
+          "tamanho": 55700846,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "0301 - Setup Environment.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0301 - Setup Environment.mp4",
+          "tamanho": 72715580,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "0401 - C2 - Rodando seu primeiro exemplo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0401 - C2 - Rodando seu primeiro exemplo.mp4",
+          "tamanho": 86082587,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "0402 -C3 - Conceitos Básicos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0402 -C3 - Conceitos Básicos.mp4",
+          "tamanho": 54618288,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "0403 - C4 - Conhecendo Alguns Widgets.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0403 - C4 - Conhecendo Alguns Widgets.mp4",
+          "tamanho": 127904599,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "0404 - C5 - Criando seus próprios widgets.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0404 - C5 - Criando seus próprios widgets.mp4",
+          "tamanho": 72613331,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "0501 - Conceitos Básicos - Stateless x Stateful widgets.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Básico/0501 - Conceitos Básicos - Stateless x Stateful widgets.mp4",
+          "tamanho": 166699697,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        }
+      ]
+    },
+    {
+      "nome": "Flutter Snippets",
+      "aulas": [
+        {
+          "nome": "Consumindo API e FutureBuilder.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Snippets/Consumindo API e FutureBuilder.mp4",
+          "tamanho": 146285011,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "Entendendo Row e Column.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Snippets/Entendendo Row e Column.mp4",
+          "tamanho": 96364015,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "Flutter Secure Storage.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Snippets/Flutter Secure Storage.mp4",
+          "tamanho": 51904692,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.789Z"
+        },
+        {
+          "nome": "Modificando Transições de tela.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Snippets/Modificando Transições de tela.mp4",
+          "tamanho": 48141170,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.790Z"
+        },
+        {
+          "nome": "Shared Preferences.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Snippets/Shared Preferences.mp4",
+          "tamanho": 113318167,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.790Z"
+        },
+        {
+          "nome": "Streams-StreamBuilder.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Snippets/Streams-StreamBuilder.mp4",
+          "tamanho": 132615573,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.790Z"
+        },
+        {
+          "nome": "Widget Hero.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Snippets/Widget Hero.mp4",
+          "tamanho": 75227241,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.790Z"
+        },
+        {
+          "nome": "Widget SafeArea.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Flutter Snippets/Widget SafeArea.mp4",
+          "tamanho": 19943999,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:32:01.790Z"
+        }
+      ]
     }
   ]
 }
