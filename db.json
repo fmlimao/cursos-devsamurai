@@ -5829,6 +5829,215 @@
           "dataUpload": "2025-09-12T23:47:22.949Z"
         }
       ]
+    },
+    {
+      "nome": "Python - Forca",
+      "aulas": [
+        {
+          "nome": "0101 - Forca Intro.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Forca/0101 - Forca Intro.mp4",
+          "tamanho": 7126103,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:50:29.560Z"
+        },
+        {
+          "nome": "0102 - Forca pt2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Forca/0102 - Forca pt2.mp4",
+          "tamanho": 17711601,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:50:36.439Z"
+        },
+        {
+          "nome": "0103 - Forca pt3.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Forca/0103 - Forca pt3.mp4",
+          "tamanho": 15091577,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:50:41.840Z"
+        },
+        {
+          "nome": "0104 - Forca pt4.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Forca/0104 - Forca pt4.mp4",
+          "tamanho": 29525477,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:50:49.237Z"
+        },
+        {
+          "nome": "0105 - Forca pt5.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Forca/0105 - Forca pt5.mp4",
+          "tamanho": 21080936,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:50:55.336Z"
+        }
+      ]
+    },
+    {
+      "nome": "Python - Jogo Adivinha",
+      "aulas": [
+        {
+          "nome": "0101 - Adivinha Intro.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Adivinha/0101 - Adivinha Intro.mp4",
+          "tamanho": 5037618,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:50:59.160Z"
+        },
+        {
+          "nome": "0102 -  Adivinha pt2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Adivinha/0102 -  Adivinha pt2.mp4",
+          "tamanho": 28873025,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:51:06.349Z"
+        },
+        {
+          "nome": "0103 - Adivinha pt3.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Adivinha/0103 - Adivinha pt3.mp4",
+          "tamanho": 18443619,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:51:11.843Z"
+        },
+        {
+          "nome": "0104 - Adivinha pt4.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Adivinha/0104 - Adivinha pt4.mp4",
+          "tamanho": 26912784,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:51:19.231Z"
+        }
+      ]
+    },
+    {
+      "nome": "Python - Jogo Cobrinha",
+      "aulas": [
+        {
+          "nome": "0101 - Apresentação Jogo Cobrinha.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0101 - Apresentação Jogo Cobrinha.mp4",
+          "tamanho": 4678625,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:51:50.864Z"
+        },
+        {
+          "nome": "0102 - Instalação e Evento.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0102 - Instalação e Evento.mp4",
+          "tamanho": 24580639,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:51:58.317Z"
+        },
+        {
+          "nome": "0103 - Desenhando na tela.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0103 - Desenhando na tela.mp4",
+          "tamanho": 24493720,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:52:05.372Z"
+        },
+        {
+          "nome": "0104 - Movimentando o ponto.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0104 - Movimentando o ponto.mp4",
+          "tamanho": 29891460,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:52:12.837Z"
+        },
+        {
+          "nome": "0105 - Evento Teclas.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0105 - Evento Teclas.mp4",
+          "tamanho": 24547010,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:52:19.101Z"
+        },
+        {
+          "nome": "0106 - Limites das margens.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0106 - Limites das margens.mp4",
+          "tamanho": 28972744,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:52:26.692Z"
+        },
+        {
+          "nome": "0107 - Criando as maças.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0107 - Criando as maças.mp4",
+          "tamanho": 35541873,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:52:34.450Z"
+        },
+        {
+          "nome": "0108 - Colisão com as maçãs.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0108 - Colisão com as maçãs.mp4",
+          "tamanho": 16277830,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:52:40.187Z"
+        },
+        {
+          "nome": "0109 - Aumentando  cobra.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0109 - Aumentando  cobra.mp4",
+          "tamanho": 33325737,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:52:47.628Z"
+        },
+        {
+          "nome": "0110 - Colisão com o corpo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0110 - Colisão com o corpo.mp4",
+          "tamanho": 29075823,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:52:55.899Z"
+        },
+        {
+          "nome": "0111 - Colocando Obstaculos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0111 - Colocando Obstaculos.mp4",
+          "tamanho": 27665136,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:53:02.906Z"
+        },
+        {
+          "nome": "0112 - Aumentando a velocidade.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0112 - Aumentando a velocidade.mp4",
+          "tamanho": 15239778,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:53:08.555Z"
+        },
+        {
+          "nome": "0113 - Colocando textos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0113 - Colocando textos.mp4",
+          "tamanho": 18616526,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:53:14.900Z"
+        },
+        {
+          "nome": "0114 - Finalizando o jogo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Jogo Cobrinha/0114 - Finalizando o jogo.mp4",
+          "tamanho": 11089137,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:53:19.062Z"
+        }
+      ]
+    },
+    {
+      "nome": "Python - Juros Compostos",
+      "aulas": [
+        {
+          "nome": "0101 - Introd Juros Composto.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Juros Compostos/0101 - Introd Juros Composto.mp4",
+          "tamanho": 2807319,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:53:22.489Z"
+        },
+        {
+          "nome": "0102 - Juros.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Juros Compostos/0102 - Juros.mp4",
+          "tamanho": 16803965,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:53:26.325Z"
+        },
+        {
+          "nome": "0103 - Juros.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Juros Compostos/0103 - Juros.mp4",
+          "tamanho": 22080174,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:53:33.052Z"
+        },
+        {
+          "nome": "0104 - Juros.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python - Juros Compostos/0104 - Juros.mp4",
+          "tamanho": 16787606,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:53:38.207Z"
+        }
+      ]
     }
   ]
 }
