@@ -5309,6 +5309,159 @@
           "dataUpload": "2025-09-12T23:42:03.450Z"
         }
       ]
+    },
+    {
+      "nome": "Montando o ambiente Dev",
+      "aulas": [
+        {
+          "nome": "U1A1 - Ambiente básico do desenvolvedor.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Montando o ambiente Dev/U1A1 - Ambiente básico do desenvolvedor.mp4",
+          "tamanho": 13344554,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:42:39.061Z"
+        },
+        {
+          "nome": "U1A2 - Como instalar as ferramentas necessárias.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Montando o ambiente Dev/U1A2 - Como instalar as ferramentas necessárias.mp4",
+          "tamanho": 11387173,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:42:39.244Z"
+        },
+        {
+          "nome": "U1A3 - Instalando o editor de código.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Montando o ambiente Dev/U1A3 - Instalando o editor de código.mp4",
+          "tamanho": 3806716,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:42:39.409Z"
+        },
+        {
+          "nome": "U1A4 - Instalando o Navegador.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Montando o ambiente Dev/U1A4 - Instalando o Navegador.mp4",
+          "tamanho": 3376256,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:42:39.577Z"
+        },
+        {
+          "nome": "U1A5 - Instalando o Terminal.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Montando o ambiente Dev/U1A5 - Instalando o Terminal.mp4",
+          "tamanho": 17806212,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:42:39.741Z"
+        },
+        {
+          "nome": "U1A6 - Instalando o Nodejs.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Montando o ambiente Dev/U1A6 - Instalando o Nodejs.mp4",
+          "tamanho": 4811437,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:42:39.909Z"
+        }
+      ]
+    },
+    {
+      "nome": "Primeira Oportunidade",
+      "aulas": [
+        {
+          "nome": "0101 - Sobre este Minicurso.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Primeira Oportunidade/0101 - Sobre este Minicurso.mp4",
+          "tamanho": 57974355,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:43:05.267Z"
+        },
+        {
+          "nome": "0102 - O que é ser um programador.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Primeira Oportunidade/0102 - O que é ser um programador.mp4",
+          "tamanho": 131747847,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:43:05.423Z"
+        },
+        {
+          "nome": "0103 - Mercado.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Primeira Oportunidade/0103 - Mercado.mp4",
+          "tamanho": 103486318,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:43:05.581Z"
+        },
+        {
+          "nome": "0104 - Marketing.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Primeira Oportunidade/0104 - Marketing.mp4",
+          "tamanho": 141825833,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:43:05.748Z"
+        },
+        {
+          "nome": "0105 - Mercadoria.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Primeira Oportunidade/0105 - Mercadoria.mp4",
+          "tamanho": 36256551,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:43:05.915Z"
+        },
+        {
+          "nome": "0106 - Mídia.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Primeira Oportunidade/0106 - Mídia.mp4",
+          "tamanho": 31970911,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:43:06.095Z"
+        },
+        {
+          "nome": "0201 - Primeiro emprego como programador.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Primeira Oportunidade/0201 - Primeiro emprego como programador.mp4",
+          "tamanho": 113463758,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:43:06.267Z"
+        }
+      ]
+    },
+    {
+      "nome": "Programar do Zero - HTML",
+      "aulas": [
+        {
+          "nome": "01 - Introdução a Internet e WEB.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - HTML/01 - Introdução a Internet e WEB.mp4",
+          "tamanho": 64622660,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:44:05.677Z"
+        },
+        {
+          "nome": "02 - Introdução ao HTML.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - HTML/02 - Introdução ao HTML.mp4",
+          "tamanho": 51940472,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:44:05.859Z"
+        },
+        {
+          "nome": "03 - Introdução ao CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - HTML/03 - Introdução ao CSS.mp4",
+          "tamanho": 21233798,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:44:06.020Z"
+        },
+        {
+          "nome": "04 - O que mudou no HTML 5.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - HTML/04 - O que mudou no HTML 5.mp4",
+          "tamanho": 27138784,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:44:06.196Z"
+        }
+      ]
+    },
+    {
+      "nome": "Programar do Zero - Jokenpo",
+      "aulas": [
+        {
+          "nome": "0101 - Apresentação e estrutura visual.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Jokenpo/0101 - Apresentação e estrutura visual.mp4",
+          "tamanho": 132917931,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:44:43.318Z"
+        },
+        {
+          "nome": "0102 - Código.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Jokenpo/0102 - Código.mp4",
+          "tamanho": 134697337,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:44:43.492Z"
+        }
+      ]
     }
   ]
 }
