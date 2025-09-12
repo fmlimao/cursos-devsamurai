@@ -12,10 +12,10 @@
         }
 
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0f0f0f 0%, #1a1a1a 50%, #2d2d2d 100%);
             min-height: 100vh;
-            color: #333;
+            color: #e0e0e0;
         }
 
         .container {
@@ -26,19 +26,25 @@
 
         .header {
             text-align: center;
-            margin-bottom: 40px;
-            color: white;
+            margin-bottom: 50px;
+            color: #ffffff;
         }
 
         .header h1 {
-            font-size: 2.5rem;
-            margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            font-size: 3rem;
+            margin-bottom: 15px;
+            background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            font-weight: 800;
+            letter-spacing: -1px;
         }
 
         .header p {
-            font-size: 1.1rem;
-            opacity: 0.9;
+            font-size: 1.2rem;
+            opacity: 0.8;
+            font-weight: 300;
         }
 
         .courses-grid {
@@ -49,70 +55,97 @@
         }
 
         .course-card {
-            background: white;
-            border-radius: 15px;
-            padding: 25px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            background: linear-gradient(145deg, #1e1e1e 0%, #2a2a2a 100%);
+            border: 1px solid #333;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
             cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .course-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, #00d4ff, #0099cc, #00d4ff);
+            transform: scaleX(0);
+            transition: transform 0.3s ease;
         }
 
         .course-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+            transform: translateY(-8px);
+            box-shadow: 0 20px 60px rgba(0,0,0,0.6);
+            border-color: #00d4ff;
+        }
+
+        .course-card:hover::before {
+            transform: scaleX(1);
         }
 
         .course-title {
-            font-size: 1.4rem;
-            font-weight: bold;
-            margin-bottom: 10px;
-            color: #2c3e50;
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+            color: #ffffff;
+            letter-spacing: -0.5px;
         }
 
         .course-info {
-            color: #7f8c8d;
-            font-size: 0.9rem;
+            color: #a0a0a0;
+            font-size: 1rem;
+            font-weight: 500;
         }
 
         .video-player-section {
-            background: white;
-            border-radius: 15px;
-            padding: 30px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-            margin-bottom: 20px;
+            background: linear-gradient(145deg, #1e1e1e 0%, #2a2a2a 100%);
+            border: 1px solid #333;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+            margin-bottom: 30px;
         }
 
         .video-container {
             position: relative;
             width: 100%;
-            max-width: 800px;
-            margin: 0 auto 20px;
+            max-width: 900px;
+            margin: 0 auto 30px;
             background: #000;
-            border-radius: 10px;
+            border-radius: 15px;
             overflow: hidden;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.6);
         }
 
         .video-player {
             width: 100%;
-            height: 450px;
+            height: 500px;
             border: none;
+            border-radius: 15px;
         }
 
         .video-info {
             text-align: center;
-            margin-bottom: 20px;
+            margin-bottom: 30px;
         }
 
         .video-title {
-            font-size: 1.3rem;
-            font-weight: bold;
-            color: #2c3e50;
-            margin-bottom: 5px;
+            font-size: 1.6rem;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 10px;
+            letter-spacing: -0.5px;
         }
 
         .video-counter {
-            color: #7f8c8d;
-            font-size: 0.9rem;
+            color: #a0a0a0;
+            font-size: 1rem;
+            font-weight: 500;
         }
 
         .navigation {
@@ -123,121 +156,147 @@
         }
 
         .nav-btn {
-            background: #3498db;
+            background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 30px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 600;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            min-width: 140px;
+            box-shadow: 0 4px 15px rgba(0, 212, 255, 0.3);
+        }
+
+        .nav-btn:hover:not(:disabled) {
+            background: linear-gradient(135deg, #00b8e6 0%, #0088bb 100%);
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(0, 212, 255, 0.4);
+        }
+
+        .nav-btn:disabled {
+            background: #333;
+            color: #666;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+
+        .lessons-list {
+            background: linear-gradient(145deg, #1e1e1e 0%, #2a2a2a 100%);
+            border: 1px solid #333;
+            border-radius: 15px;
+            padding: 30px;
+        }
+
+        .lessons-title {
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+            color: #ffffff;
+            letter-spacing: -0.5px;
+        }
+
+        .lesson-item {
+            background: linear-gradient(145deg, #2a2a2a 0%, #333 100%);
+            border: 1px solid #444;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            border-left: 4px solid transparent;
+        }
+
+        .lesson-item:hover {
+            background: linear-gradient(145deg, #333 0%, #3a3a3a 100%);
+            border-left-color: #00d4ff;
+            transform: translateX(5px);
+        }
+
+        .lesson-item.active {
+            background: linear-gradient(145deg, #00d4ff20 0%, #0099cc20 100%);
+            border-left-color: #00d4ff;
+            border-color: #00d4ff;
+            font-weight: 600;
+        }
+
+        .lesson-name {
+            font-size: 1rem;
+            color: #e0e0e0;
+            font-weight: 500;
+        }
+
+        .back-btn {
+            background: linear-gradient(135deg, #ff4757 0%, #c44569 100%);
             color: white;
             border: none;
             padding: 12px 25px;
             border-radius: 25px;
             cursor: pointer;
             font-size: 1rem;
-            font-weight: bold;
-            transition: all 0.3s ease;
-            min-width: 120px;
-        }
-
-        .nav-btn:hover:not(:disabled) {
-            background: #2980b9;
-            transform: translateY(-2px);
-        }
-
-        .nav-btn:disabled {
-            background: #bdc3c7;
-            cursor: not-allowed;
-            transform: none;
-        }
-
-        .lessons-list {
-            background: #f8f9fa;
-            border-radius: 10px;
-            padding: 20px;
-        }
-
-        .lessons-title {
-            font-size: 1.2rem;
-            font-weight: bold;
-            margin-bottom: 15px;
-            color: #2c3e50;
-        }
-
-        .lesson-item {
-            background: white;
-            border-radius: 8px;
-            padding: 15px;
-            margin-bottom: 10px;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            border-left: 4px solid transparent;
-        }
-
-        .lesson-item:hover {
-            background: #e3f2fd;
-            border-left-color: #3498db;
-        }
-
-        .lesson-item.active {
-            background: #e3f2fd;
-            border-left-color: #3498db;
-            font-weight: bold;
-        }
-
-        .lesson-name {
-            font-size: 1rem;
-            color: #2c3e50;
-        }
-
-        .back-btn {
-            background: #e74c3c;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 20px;
-            cursor: pointer;
-            font-size: 0.9rem;
-            margin-bottom: 20px;
-            transition: all 0.3s ease;
+            font-weight: 600;
+            margin-bottom: 30px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 4px 15px rgba(255, 71, 87, 0.3);
         }
 
         .back-btn:hover {
-            background: #c0392b;
-            transform: translateY(-2px);
+            background: linear-gradient(135deg, #ff3742 0%, #b33a5a 100%);
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(255, 71, 87, 0.4);
         }
 
         .loading {
             text-align: center;
-            padding: 40px;
-            color: #7f8c8d;
+            padding: 60px;
+            color: #a0a0a0;
+            font-size: 1.2rem;
+            font-weight: 500;
         }
 
         .error {
-            background: #e74c3c;
+            background: linear-gradient(135deg, #ff4757 0%, #c44569 100%);
             color: white;
-            padding: 15px;
-            border-radius: 8px;
-            margin: 20px 0;
+            padding: 20px;
+            border-radius: 15px;
+            margin: 30px 0;
             text-align: center;
+            font-weight: 600;
+            box-shadow: 0 8px 25px rgba(255, 71, 87, 0.3);
         }
 
         @media (max-width: 768px) {
             .container {
-                padding: 10px;
+                padding: 15px;
             }
-            
+
             .header h1 {
-                font-size: 2rem;
+                font-size: 2.2rem;
             }
-            
+
             .video-player {
-                height: 250px;
+                height: 280px;
             }
-            
+
             .navigation {
                 flex-direction: column;
                 align-items: center;
+                gap: 10px;
             }
-            
+
             .nav-btn {
                 width: 100%;
-                max-width: 200px;
+                max-width: 250px;
+            }
+
+            .course-card {
+                padding: 25px;
+            }
+
+            .video-player-section {
+                padding: 25px;
             }
         }
     </style>
@@ -264,7 +323,7 @@
         <!-- Player de vídeo -->
         <div id="video-section" style="display: none;">
             <button class="back-btn" onclick="showCourses()">← Voltar aos Cursos</button>
-            
+
             <div class="video-player-section">
                 <div class="video-info">
                     <div class="video-title" id="current-video-title">Selecione uma aula</div>
@@ -303,7 +362,7 @@
                 const response = await fetch('./db.json');
                 const data = await response.json();
                 courses = data.cursos || [];
-                
+
                 if (courses.length === 0) {
                     showError('Nenhum curso encontrado no banco de dados.');
                     return;
@@ -361,9 +420,9 @@
         // Carrega a lista de aulas
         function loadLessons() {
             const lessonsList = document.getElementById('lessons-list');
-            
+
             lessonsList.innerHTML = currentCourse.aulas.map((lesson, index) => `
-                <div class="lesson-item ${index === currentLessonIndex ? 'active' : ''}" 
+                <div class="lesson-item ${index === currentLessonIndex ? 'active' : ''}"
                      onclick="selectLesson(${index})">
                     <div class="lesson-name">${lesson.nome}</div>
                 </div>
