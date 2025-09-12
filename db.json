@@ -114,6 +114,182 @@
           "dataUpload": "2025-09-12T02:32:25.173Z"
         }
       ]
+    },
+    {
+      "nome": "Frontend - Criando seu currículo",
+      "aulas": [
+        {
+          "nome": "0438 - CV - Projeto Prático (Parte 1).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Criando seu currículo/0438 - CV - Projeto Prático (Parte 1).mp4",
+          "tamanho": 180612027,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:47:20.049Z"
+        },
+        {
+          "nome": "0438 - CV - Projeto Prático (Parte 2).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Criando seu currículo/0438 - CV - Projeto Prático (Parte 2).mp4",
+          "tamanho": 209215314,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:47:20.050Z"
+        },
+        {
+          "nome": "0438 - CV - Projeto Prático (Parte 3).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Criando seu currículo/0438 - CV - Projeto Prático (Parte 3).mp4",
+          "tamanho": 224295577,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:47:20.050Z"
+        }
+      ]
+    },
+    {
+      "nome": "Frontend - CSS Grid",
+      "aulas": [
+        {
+          "nome": "0102 - Grid Template.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - CSS Grid/0102 - Grid Template.mp4",
+          "tamanho": 89487698,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "0103 - Grid Gap.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - CSS Grid/0103 - Grid Gap.mp4",
+          "tamanho": 50532188,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "0104 - Grid auto columns.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - CSS Grid/0104 - Grid auto columns.mp4",
+          "tamanho": 56844470,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "0105 - Grid auto rows.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - CSS Grid/0105 - Grid auto rows.mp4",
+          "tamanho": 28758727,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "0106 - Grid auto flow.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - CSS Grid/0106 - Grid auto flow.mp4",
+          "tamanho": 81131843,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "0107 - Grid column.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - CSS Grid/0107 - Grid column.mp4",
+          "tamanho": 55814547,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "0108 - Grid row.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - CSS Grid/0108 - Grid row.mp4",
+          "tamanho": 34036035,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "0109 - Grid area.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - CSS Grid/0109 - Grid area.mp4",
+          "tamanho": 96938382,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "0110 - Considerações finais.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - CSS Grid/0110 - Considerações finais.mp4",
+          "tamanho": 69746106,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "0301 - O que é Por quê utilizar.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - CSS Grid/0301 - O que é Por quê utilizar.mp4",
+          "tamanho": 107522853,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        }
+      ]
+    },
+    {
+      "nome": "Frontend - Criando seu portfólio",
+      "aulas": [
+        {
+          "nome": "01 - Apresentando o projeto.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Criando seu portfólio/01 - Apresentando o projeto.mp4",
+          "tamanho": 33276105,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "02 - Instalando e configurando o ambiente de desenvolvimento.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Criando seu portfólio/02 - Instalando e configurando o ambiente de desenvolvimento.mp4",
+          "tamanho": 37170704,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "03 - Criando nossa estrutura HTML.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Criando seu portfólio/03 - Criando nossa estrutura HTML.mp4",
+          "tamanho": 146971485,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "04 - Estilizando com Sass - Parte 1.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Criando seu portfólio/04 - Estilizando com Sass - Parte 1.mp4",
+          "tamanho": 163907845,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "04 - Estilizando com Sass - Parte 2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Criando seu portfólio/04 - Estilizando com Sass - Parte 2.mp4",
+          "tamanho": 168993116,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "05 - Incluindo libs - Parte 1.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Criando seu portfólio/05 - Incluindo libs - Parte 1.mp4",
+          "tamanho": 49571215,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "05 - Incluindo libs - Parte 2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Criando seu portfólio/05 - Incluindo libs - Parte 2.mp4",
+          "tamanho": 31390900,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "06 - Adaptando o layout para telas maiores e considerações finais.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Criando seu portfólio/06 - Adaptando o layout para telas maiores e considerações finais.mp4",
+          "tamanho": 277250345,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "99 - Extra - Envio de e-mail.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Criando seu portfólio/99 - Extra - Envio de e-mail.mp4",
+          "tamanho": 86891004,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        },
+        {
+          "nome": "99 - Extra - Incluindo botão de WhatsApp.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Criando seu portfólio/99 - Extra - Incluindo botão de WhatsApp.mp4",
+          "tamanho": 136367559,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T03:55:22.957Z"
+        }
+      ]
     }
   ]
 }

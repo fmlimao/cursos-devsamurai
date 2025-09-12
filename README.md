@@ -43,6 +43,9 @@ A [Dev Samurai](https://class.devsamurai.com.br/) encerrou suas atividades em 20
 
 ## 📋 Cursos Disponíveis
 
+- **Frontend - Criando seu currículo** (3 aulas)
+- **Frontend - Criando seu portfólio** (10 aulas)
+- **Frontend - CSS Grid** (10 aulas)
 - **Frontend - Flexbox** (12 aulas)
 - **Frontend - Formulário de Cadastro** (3 aulas)
 

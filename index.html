@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevSamurai - Cursos</title>
+    <title>DevSamurai - Cursos Gratuitos de Programação</title>
     <style>
         * {
             margin: 0;
@@ -45,6 +45,52 @@
             font-size: 1.2rem;
             opacity: 0.8;
             font-weight: 300;
+        }
+
+        .project-info {
+            margin-bottom: 40px;
+        }
+
+        .info-card {
+            background: linear-gradient(145deg, #1e1e1e 0%, #2a2a2a 100%);
+            border: 1px solid #333;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+            text-align: center;
+        }
+
+        .info-card h3 {
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 15px;
+            letter-spacing: -0.5px;
+        }
+
+        .info-card p {
+            font-size: 1rem;
+            color: #e0e0e0;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        .info-highlights {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .highlight {
+            background: linear-gradient(135deg, #00d4ff20 0%, #0099cc20 100%);
+            color: #00d4ff;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            border: 1px solid #00d4ff40;
         }
 
         .courses-grid {
@@ -525,41 +571,56 @@
             .container {
                 padding: 15px;
             }
-
+            
             .header h1 {
                 font-size: 2.2rem;
             }
-
+            
+            .info-card {
+                padding: 20px;
+            }
+            
+            .info-highlights {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .highlight {
+                width: 100%;
+                max-width: 200px;
+                text-align: center;
+            }
+            
             .video-section-container {
                 grid-template-columns: 1fr;
                 gap: 20px;
             }
-
+            
             .lessons-sidebar {
                 order: 2;
                 max-height: 50vh;
             }
-
+            
             .video-player-section {
                 order: 1;
                 padding: 25px;
             }
-
+            
             .video-player {
                 height: 280px;
             }
-
+            
             .navigation {
                 flex-direction: column;
                 align-items: center;
                 gap: 10px;
             }
-
+            
             .nav-btn {
                 width: 100%;
                 max-width: 250px;
             }
-
+            
             .course-card {
                 padding: 25px;
             }
@@ -570,7 +631,29 @@
     <div class="container">
         <div class="header">
             <h1>🎓 DevSamurai</h1>
-            <p>Seus cursos de programação em um só lugar</p>
+            <p>Preservando o legado educacional da Dev Samurai</p>
+            <p style="font-size: 1rem; margin-top: 10px; opacity: 0.8;">
+                Acesso gratuito e vitalício a todos os cursos • 
+                <a href="https://class.devsamurai.com.br/" target="_blank" style="color: #00d4ff; text-decoration: none;">Conteúdo original</a>
+            </p>
+        </div>
+
+        <!-- Informações sobre o projeto -->
+        <div class="project-info">
+            <div class="info-card">
+                <h3>📚 Sobre este projeto</h3>
+                <p>
+                    A <strong>Dev Samurai</strong> encerrou suas atividades em 2024, mas disponibilizou todo seu conteúdo 
+                    (aproximadamente 100GB) para download gratuito. Este projeto preserva e organiza todo esse 
+                    conhecimento educacional de forma acessível e moderna.
+                </p>
+                <div class="info-highlights">
+                    <span class="highlight">✅ Acesso gratuito</span>
+                    <span class="highlight">✅ Sem necessidade de cadastro</span>
+                    <span class="highlight">✅ Progresso salvo localmente</span>
+                    <span class="highlight">✅ Interface moderna</span>
+                </div>
+            </div>
         </div>
 
         <!-- Tela de carregamento -->
@@ -772,7 +855,10 @@
             loading.style.display = 'none';
             coursesSection.style.display = 'block';
 
-            coursesGrid.innerHTML = courses.map(course => {
+            // Ordena os cursos alfabeticamente
+            const sortedCourses = [...courses].sort((a, b) => a.nome.localeCompare(b.nome, 'pt-BR'));
+
+            coursesGrid.innerHTML = sortedCourses.map(course => {
                 const progress = getCourseProgress(course.nome);
                 return `
                     <div class="course-card" onclick="openCourse('${course.nome}')">
