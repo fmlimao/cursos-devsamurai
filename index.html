@@ -564,6 +564,9 @@
                 // Carrega o progresso do usuário
                 loadUserProgress();
                 displayCourses();
+
+                // Verifica se há uma rota na URL
+                checkRoute();
             } catch (error) {
                 console.error('Erro ao carregar cursos:', error);
                 showError('Erro ao carregar os cursos. Verifique se o arquivo db.json existe.');
@@ -600,16 +603,44 @@
             }).join('');
         }
 
+        // Sistema de rotas
+        function checkRoute() {
+            const hash = window.location.hash.substring(1); // Remove o #
+
+            if (hash) {
+                const [encodedCourseName, lessonIndex] = hash.split('/');
+                const courseName = decodeURIComponent(encodedCourseName);
+                const course = courses.find(c => c.nome === courseName);
+
+                if (course) {
+                    openCourse(courseName, lessonIndex ? parseInt(lessonIndex) : 0);
+                } else {
+                    // Curso não encontrado, limpa a URL
+                    window.location.hash = '';
+                }
+            }
+        }
+
+        // Atualiza a URL com a rota atual
+        function updateRoute(courseName, lessonIndex = 0) {
+            const encodedCourseName = encodeURIComponent(courseName);
+            const hash = lessonIndex > 0 ? `${encodedCourseName}/${lessonIndex}` : encodedCourseName;
+            window.location.hash = hash;
+        }
+
         // Abre um curso específico
-        function openCourse(courseName) {
+        function openCourse(courseName, lessonIndex = 0) {
             currentCourse = courses.find(c => c.nome === courseName);
             if (!currentCourse) return;
 
-            currentLessonIndex = 0;
+            currentLessonIndex = lessonIndex;
             showVideoSection();
             updateCurrentCourseInfo();
             loadLessons();
             loadCurrentVideo();
+
+            // Atualiza a URL
+            updateRoute(courseName, lessonIndex);
         }
 
         // Exibe a seção de vídeo
@@ -622,6 +653,9 @@
         function showCourses() {
             document.getElementById('video-section').style.display = 'none';
             document.getElementById('courses-section').style.display = 'block';
+
+            // Limpa a URL
+            window.location.hash = '';
         }
 
         // Carrega a lista de aulas
@@ -649,6 +683,11 @@
             currentLessonIndex = index;
             loadCurrentVideo();
             loadLessons(); // Atualiza a lista para destacar a aula ativa
+
+            // Atualiza a URL
+            if (currentCourse) {
+                updateRoute(currentCourse.nome, index);
+            }
         }
 
         // Carrega o vídeo atual
@@ -725,6 +764,11 @@
                 currentLessonIndex--;
                 loadCurrentVideo();
                 loadLessons();
+
+                // Atualiza a URL
+                if (currentCourse) {
+                    updateRoute(currentCourse.nome, currentLessonIndex);
+                }
             }
         }
 
@@ -734,6 +778,11 @@
                 currentLessonIndex++;
                 loadCurrentVideo();
                 loadLessons();
+
+                // Atualiza a URL
+                if (currentCourse) {
+                    updateRoute(currentCourse.nome, currentLessonIndex);
+                }
             }
         }
 
@@ -760,6 +809,11 @@
         document.addEventListener('DOMContentLoaded', function() {
             loadCourses();
             setupVideoProgressTracking();
+
+            // Listener para mudanças na URL
+            window.addEventListener('hashchange', function() {
+                checkRoute();
+            });
         });
     </script>
 </body>
