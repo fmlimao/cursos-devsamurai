@@ -102,6 +102,10 @@
             font-weight: 500;
         }
 
+        .course-progress-info {
+            margin-top: 15px;
+        }
+
         .video-section-container {
             display: grid;
             grid-template-columns: 350px 1fr;
@@ -277,6 +281,55 @@
             font-size: 0.8rem;
         }
 
+        .lesson-item.watched::before {
+            content: '✓';
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #2ecc71;
+            font-size: 0.9rem;
+            font-weight: bold;
+        }
+
+        .lesson-item.watched {
+            border-left-color: #2ecc71;
+            background: linear-gradient(145deg, #2ecc7120 0%, #27ae6020 100%);
+        }
+
+        .lesson-item.watched:hover {
+            border-left-color: #2ecc71;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 6px;
+            background: #333;
+            border-radius: 3px;
+            overflow: hidden;
+            margin-top: 10px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #2ecc71 0%, #27ae60 100%);
+            border-radius: 3px;
+            transition: width 0.3s ease;
+        }
+
+        .course-progress {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .progress-text {
+            font-size: 0.85rem;
+            color: #a0a0a0;
+            font-weight: 500;
+        }
+
         .lesson-name {
             font-size: 0.95rem;
             color: #e0e0e0;
@@ -437,6 +490,59 @@
         let courses = [];
         let currentCourse = null;
         let currentLessonIndex = 0;
+        let userProgress = {};
+
+        // Carrega o progresso do usuário do localStorage
+        function loadUserProgress() {
+            const saved = localStorage.getItem('devsamurai_progress');
+            if (saved) {
+                try {
+                    userProgress = JSON.parse(saved);
+                } catch (e) {
+                    userProgress = {};
+                }
+            }
+        }
+
+        // Salva o progresso do usuário no localStorage
+        function saveUserProgress() {
+            localStorage.setItem('devsamurai_progress', JSON.stringify(userProgress));
+        }
+
+        // Marca uma aula como assistida
+        function markLessonAsWatched(courseName, lessonIndex) {
+            if (!userProgress[courseName]) {
+                userProgress[courseName] = {
+                    watchedLessons: [],
+                    lastWatchedLesson: 0
+                };
+            }
+
+            if (!userProgress[courseName].watchedLessons.includes(lessonIndex)) {
+                userProgress[courseName].watchedLessons.push(lessonIndex);
+                saveUserProgress();
+            }
+        }
+
+        // Verifica se uma aula foi assistida
+        function isLessonWatched(courseName, lessonIndex) {
+            return userProgress[courseName] &&
+                   userProgress[courseName].watchedLessons &&
+                   userProgress[courseName].watchedLessons.includes(lessonIndex);
+        }
+
+        // Calcula o progresso de um curso
+        function getCourseProgress(courseName) {
+            if (!userProgress[courseName] || !userProgress[courseName].watchedLessons) {
+                return 0;
+            }
+
+            const course = courses.find(c => c.nome === courseName);
+            if (!course) return 0;
+
+            const watchedCount = userProgress[courseName].watchedLessons.length;
+            return Math.round((watchedCount / course.aulas.length) * 100);
+        }
 
         // Carrega os dados do banco JSON
         async function loadCourses() {
@@ -450,6 +556,8 @@
                     return;
                 }
 
+                // Carrega o progresso do usuário
+                loadUserProgress();
                 displayCourses();
             } catch (error) {
                 console.error('Erro ao carregar cursos:', error);
@@ -466,14 +574,25 @@
             loading.style.display = 'none';
             coursesSection.style.display = 'block';
 
-            coursesGrid.innerHTML = courses.map(course => `
-                <div class="course-card" onclick="openCourse('${course.nome}')">
-                    <div class="course-title">${course.nome}</div>
-                    <div class="course-info">
-                        📹 ${course.aulas.length} aula(s)
+            coursesGrid.innerHTML = courses.map(course => {
+                const progress = getCourseProgress(course.nome);
+                return `
+                    <div class="course-card" onclick="openCourse('${course.nome}')">
+                        <div class="course-title">${course.nome}</div>
+                        <div class="course-info">
+                            📹 ${course.aulas.length} aula(s)
+                        </div>
+                        <div class="course-progress-info">
+                            <div class="course-progress">
+                                <div class="progress-bar">
+                                    <div class="progress-fill" style="width: ${progress}%"></div>
+                                </div>
+                                <div class="progress-text">${progress}%</div>
+                            </div>
+                        </div>
                     </div>
-                </div>
-            `).join('');
+                `;
+            }).join('');
         }
 
         // Abre um curso específico
@@ -506,12 +625,17 @@
 
             lessonsCount.textContent = `${currentCourse.aulas.length} aula(s)`;
 
-            lessonsList.innerHTML = currentCourse.aulas.map((lesson, index) => `
-                <div class="lesson-item ${index === currentLessonIndex ? 'active' : ''}"
-                     onclick="selectLesson(${index})">
-                    <div class="lesson-name">${lesson.nome}</div>
-                </div>
-            `).join('');
+            lessonsList.innerHTML = currentCourse.aulas.map((lesson, index) => {
+                const isWatched = isLessonWatched(currentCourse.nome, index);
+                const isActive = index === currentLessonIndex;
+
+                return `
+                    <div class="lesson-item ${isActive ? 'active' : ''} ${isWatched ? 'watched' : ''}"
+                         onclick="selectLesson(${index})">
+                        <div class="lesson-name">${lesson.nome}</div>
+                    </div>
+                `;
+            }).join('');
         }
 
         // Seleciona uma aula específica
@@ -543,6 +667,22 @@
 
             // Carrega o vídeo
             videoPlayer.load();
+        }
+
+        // Detecta quando o usuário começa a assistir um vídeo
+        function setupVideoProgressTracking() {
+            const videoPlayer = document.getElementById('video-player');
+
+            videoPlayer.addEventListener('play', function() {
+                // Marca a aula como assistida quando o usuário dá play
+                markLessonAsWatched(currentCourse.nome, currentLessonIndex);
+
+                // Atualiza a lista de aulas para mostrar que foi assistida
+                loadLessons();
+
+                // Atualiza a lista de cursos para mostrar o progresso
+                displayCourses();
+            });
         }
 
         // Navega para a aula anterior
@@ -583,7 +723,10 @@
         });
 
         // Inicializa a aplicação
-        document.addEventListener('DOMContentLoaded', loadCourses);
+        document.addEventListener('DOMContentLoaded', function() {
+            loadCourses();
+            setupVideoProgressTracking();
+        });
     </script>
 </body>
 </html>
