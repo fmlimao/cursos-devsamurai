@@ -5462,6 +5462,373 @@
           "dataUpload": "2025-09-12T23:44:43.492Z"
         }
       ]
+    },
+    {
+      "nome": "Programar do Zero - Ping-Pong",
+      "aulas": [
+        {
+          "nome": "0102 - Instalando os programas necessários.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0102 - Instalando os programas necessários.mp4",
+          "tamanho": 6684414,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:42.112Z"
+        },
+        {
+          "nome": "0103 - Testando e criando a estrutura.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0103 - Testando e criando a estrutura.mp4",
+          "tamanho": 13615922,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:42.268Z"
+        },
+        {
+          "nome": "0201 - Criando o Canvas.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0201 - Criando o Canvas.mp4",
+          "tamanho": 28633127,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:42.431Z"
+        },
+        {
+          "nome": "0202 - Desenhando o campo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0202 - Desenhando o campo.mp4",
+          "tamanho": 30372093,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:42.590Z"
+        },
+        {
+          "nome": "0203 - Desenhando a linha central.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0203 - Desenhando a linha central.mp4",
+          "tamanho": 21486583,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:42.760Z"
+        },
+        {
+          "nome": "0204 - Desenhando as raquetes.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0204 - Desenhando as raquetes.mp4",
+          "tamanho": 15466552,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:42.923Z"
+        },
+        {
+          "nome": "0205 - Desenhando a bola.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0205 - Desenhando a bola.mp4",
+          "tamanho": 17440463,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:43.083Z"
+        },
+        {
+          "nome": "0206 - Desenhando o placar.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0206 - Desenhando o placar.mp4",
+          "tamanho": 16566056,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:43.256Z"
+        },
+        {
+          "nome": "0301 - Objeto campo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0301 - Objeto campo.mp4",
+          "tamanho": 22367006,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:43.421Z"
+        },
+        {
+          "nome": "0302 - Objeto linha.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0302 - Objeto linha.mp4",
+          "tamanho": 17019281,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:43.589Z"
+        },
+        {
+          "nome": "0303 - Objeto raquete.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0303 - Objeto raquete.mp4",
+          "tamanho": 21303315,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:43.752Z"
+        },
+        {
+          "nome": "0304 - Objeto bola.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0304 - Objeto bola.mp4",
+          "tamanho": 9380774,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:43.930Z"
+        },
+        {
+          "nome": "0305 - Objeto placar.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0305 - Objeto placar.mp4",
+          "tamanho": 18102431,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:44.109Z"
+        },
+        {
+          "nome": "0401 - Animando a bola.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0401 - Animando a bola.mp4",
+          "tamanho": 25607878,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:44.277Z"
+        },
+        {
+          "nome": "0402 - Suavizando a animação.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0402 - Suavizando a animação.mp4",
+          "tamanho": 19003808,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:44.440Z"
+        },
+        {
+          "nome": "0403 - Animando a raquete esquerda.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0403 - Animando a raquete esquerda.mp4",
+          "tamanho": 16459252,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:44.613Z"
+        },
+        {
+          "nome": "0404 - Aninando a raquete direita.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0404 - Aninando a raquete direita.mp4",
+          "tamanho": 7195593,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:44.784Z"
+        },
+        {
+          "nome": "0501 - Rebatendo nas laterais do campo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0501 - Rebatendo nas laterais do campo.mp4",
+          "tamanho": 50521733,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:44.959Z"
+        },
+        {
+          "nome": "0502 - Regra de ponto do jogador 1.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0502 - Regra de ponto do jogador 1.mp4",
+          "tamanho": 39049493,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:45.129Z"
+        },
+        {
+          "nome": "0503 - Regra de ponto do jogador 2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0503 - Regra de ponto do jogador 2.mp4",
+          "tamanho": 21034184,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:45.297Z"
+        },
+        {
+          "nome": "0601 - Aumentando a velocidade da bola.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0601 - Aumentando a velocidade da bola.mp4",
+          "tamanho": 12704919,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:45.462Z"
+        },
+        {
+          "nome": "0602 - Ajustando a física da raquete direita.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0602 - Ajustando a física da raquete direita.mp4",
+          "tamanho": 24960217,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:45.626Z"
+        },
+        {
+          "nome": "0701 - Conclusões e parabéns.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero - Ping-Pong/0701 - Conclusões e parabéns.mp4",
+          "tamanho": 3610699,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:46:45.788Z"
+        }
+      ]
+    },
+    {
+      "nome": "Programar do Zero",
+      "aulas": [
+        {
+          "nome": "0101 - Bem-vindos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0101 - Bem-vindos.mp4",
+          "tamanho": 18580028,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:18.318Z"
+        },
+        {
+          "nome": "0102 - Como postar uma Dúvida.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0102 - Como postar uma Dúvida.mp4",
+          "tamanho": 72570323,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:18.490Z"
+        },
+        {
+          "nome": "0103 - O que é ser um programador ou programadora.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0103 - O que é ser um programador ou programadora.mp4",
+          "tamanho": 14571411,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:18.685Z"
+        },
+        {
+          "nome": "0104 - Criando seu primeiro programa mentalmente.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0104 - Criando seu primeiro programa mentalmente.mp4",
+          "tamanho": 54198312,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:18.849Z"
+        },
+        {
+          "nome": "0105 - Onde você vai chegar.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0105 - Onde você vai chegar.mp4",
+          "tamanho": 16098154,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:19.012Z"
+        },
+        {
+          "nome": "0201 - Afiando o Machado.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0201 - Afiando o Machado.mp4",
+          "tamanho": 30832077,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:19.184Z"
+        },
+        {
+          "nome": "0202 - A linguagem de programação - Pra que serve - Demo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0202 - A linguagem de programação - Pra que serve - Demo.mp4",
+          "tamanho": 42960105,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:19.356Z"
+        },
+        {
+          "nome": "0202 - A linguagem de programação - Pra que serve.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0202 - A linguagem de programação - Pra que serve.mp4",
+          "tamanho": 48642069,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:19.519Z"
+        },
+        {
+          "nome": "0203 - Comandos básicos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0203 - Comandos básicos.mp4",
+          "tamanho": 90269712,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:19.683Z"
+        },
+        {
+          "nome": "0204 - Socorro!!! Mensagens de erro.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0204 - Socorro!!! Mensagens de erro.mp4",
+          "tamanho": 35049754,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:19.857Z"
+        },
+        {
+          "nome": "0301 - Para que serve.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0301 - Para que serve.mp4",
+          "tamanho": 53043305,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:20.028Z"
+        },
+        {
+          "nome": "0302 - Tipos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0302 - Tipos.mp4",
+          "tamanho": 16610720,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:20.212Z"
+        },
+        {
+          "nome": "0303 - Operadores Básicos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0303 - Operadores Básicos.mp4",
+          "tamanho": 48612270,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:20.397Z"
+        },
+        {
+          "nome": "0304 - Iniciando a criação do jogo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0304 - Iniciando a criação do jogo.mp4",
+          "tamanho": 72726931,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:20.574Z"
+        },
+        {
+          "nome": "0401 - Para que serve.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0401 - Para que serve.mp4",
+          "tamanho": 22507632,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:20.741Z"
+        },
+        {
+          "nome": "0402 - Condições de parada.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0402 - Condições de parada.mp4",
+          "tamanho": 61176089,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:20.904Z"
+        },
+        {
+          "nome": "0403 - Animando nosso jogo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0403 - Animando nosso jogo.mp4",
+          "tamanho": 94116899,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:21.079Z"
+        },
+        {
+          "nome": "0501 - Como o computador toma decisões.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0501 - Como o computador toma decisões.mp4",
+          "tamanho": 12440433,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:21.257Z"
+        },
+        {
+          "nome": "0502 - Operadores de comparação e lógicos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0502 - Operadores de comparação e lógicos.mp4",
+          "tamanho": 53747710,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:21.427Z"
+        },
+        {
+          "nome": "0503 - Então.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0503 - Então.mp4",
+          "tamanho": 22341170,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:21.594Z"
+        },
+        {
+          "nome": "0504 - Criando as regras do jogo - Parte 1.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0504 - Criando as regras do jogo - Parte 1.mp4",
+          "tamanho": 40858411,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:21.759Z"
+        },
+        {
+          "nome": "0505 - Criando as regras do jogo - Parte 2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0505 - Criando as regras do jogo - Parte 2.mp4",
+          "tamanho": 57628931,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:21.944Z"
+        },
+        {
+          "nome": "0506 - Criando as regras do jogo - Parte 3.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0506 - Criando as regras do jogo - Parte 3.mp4",
+          "tamanho": 40998056,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:22.108Z"
+        },
+        {
+          "nome": "0601 - Porque organizar o código.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0601 - Porque organizar o código.mp4",
+          "tamanho": 25065373,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:22.273Z"
+        },
+        {
+          "nome": "0602 - Separando nosso projeto em funções.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0602 - Separando nosso projeto em funções.mp4",
+          "tamanho": 43300508,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:22.444Z"
+        },
+        {
+          "nome": "0701 - Se você chegou até aqui parabéns!.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0701 - Se você chegou até aqui parabéns!.mp4",
+          "tamanho": 9034856,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:22.609Z"
+        },
+        {
+          "nome": "0702 - Novas ideias para seu jogo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0702 - Novas ideias para seu jogo.mp4",
+          "tamanho": 3430284,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:22.783Z"
+        },
+        {
+          "nome": "0703 - Aprendendo mais.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Programar do Zero/0703 - Aprendendo mais.mp4",
+          "tamanho": 8076805,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:47:22.949Z"
+        }
+      ]
     }
   ]
 }
