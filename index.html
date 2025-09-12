@@ -330,6 +330,28 @@
             font-weight: 500;
         }
 
+        .reset-progress-btn {
+            background: transparent;
+            color: #666;
+            border: 1px solid #444;
+            padding: 6px 12px;
+            border-radius: 15px;
+            cursor: pointer;
+            font-size: 0.75rem;
+            font-weight: 500;
+            margin-top: 8px;
+            transition: all 0.3s ease;
+            opacity: 0.7;
+        }
+
+        .reset-progress-btn:hover {
+            background: #ff4757;
+            color: white;
+            border-color: #ff4757;
+            opacity: 1;
+            transform: translateY(-1px);
+        }
+
         .lesson-name {
             font-size: 0.95rem;
             color: #e0e0e0;
@@ -549,6 +571,39 @@
             return Math.round((watchedCount / course.aulas.length) * 100);
         }
 
+        // Reseta o progresso do curso atual
+        function resetCourseProgress() {
+            if (!currentCourse) return;
+
+            const watchedCount = userProgress[currentCourse.nome]?.watchedLessons?.length || 0;
+
+            if (watchedCount === 0) {
+                alert('Nenhuma aula foi assistida ainda neste curso.');
+                return;
+            }
+
+            // Confirma a ação
+            const confirmed = confirm(
+                `Resetar progresso do curso "${currentCourse.nome}"?\n\n` +
+                `Isso irá marcar ${watchedCount} aula(s) como não assistidas.`
+            );
+
+            if (confirmed) {
+                // Remove o progresso do curso
+                if (userProgress[currentCourse.nome]) {
+                    userProgress[currentCourse.nome].watchedLessons = [];
+                    userProgress[currentCourse.nome].lastWatchedLesson = 0;
+                }
+
+                // Salva no localStorage
+                saveUserProgress();
+
+                // Atualiza a interface
+                updateCurrentCourseInfo();
+                loadLessons();
+            }
+        }
+
         // Carrega os dados do banco JSON
         async function loadCourses() {
             try {
@@ -753,6 +808,11 @@
                             </div>
                             <div class="progress-text">${progress}%</div>
                         </div>
+                        ${watchedCount > 0 ? `
+                            <button class="reset-progress-btn" onclick="resetCourseProgress()" title="Resetar progresso do curso">
+                                🔄 Resetar
+                            </button>
+                        ` : ''}
                     </div>
                 `;
             }
