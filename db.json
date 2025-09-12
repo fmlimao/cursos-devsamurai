@@ -4053,6 +4053,1102 @@
           "dataUpload": "2025-09-12T20:53:29.730Z"
         }
       ]
+    },
+    {
+      "nome": "JavaScript - Gerador Senhas",
+      "aulas": [
+        {
+          "nome": "0101 - Bem-vindo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0101 - Bem-vindo.mp4",
+          "tamanho": 21947893,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:06:34.608Z"
+        },
+        {
+          "nome": "0102 - Configurando o ambiente.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0102 - Configurando o ambiente.mp4",
+          "tamanho": 17594531,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:06:39.941Z"
+        },
+        {
+          "nome": "0201 - Criando a estrutura base.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0201 - Criando a estrutura base.mp4",
+          "tamanho": 24944762,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:06:44.596Z"
+        },
+        {
+          "nome": "0202 - Função geração de senha.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0202 - Função geração de senha.mp4",
+          "tamanho": 23865113,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:06:51.376Z"
+        },
+        {
+          "nome": "0203 - Input password.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0203 - Input password.mp4",
+          "tamanho": 11321907,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:06:56.078Z"
+        },
+        {
+          "nome": "0204 - Adicionando o Range.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0204 - Adicionando o Range.mp4",
+          "tamanho": 27848881,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:07:02.583Z"
+        },
+        {
+          "nome": "0205 - Copiando a senha.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0205 - Copiando a senha.mp4",
+          "tamanho": 28767498,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:07:08.759Z"
+        },
+        {
+          "nome": "0301 - Criando o CSS padrão.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0301 - Criando o CSS padrão.mp4",
+          "tamanho": 22501557,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:07:14.442Z"
+        },
+        {
+          "nome": "0302 - Formatando o titulo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0302 - Formatando o titulo.mp4",
+          "tamanho": 38696301,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:07:21.858Z"
+        },
+        {
+          "nome": "0303 - Formatando o input.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0303 - Formatando o input.mp4",
+          "tamanho": 46499497,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:07:28.614Z"
+        },
+        {
+          "nome": "0304 - Formatando os botões.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0304 - Formatando os botões.mp4",
+          "tamanho": 21982441,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:07:34.272Z"
+        },
+        {
+          "nome": "0305 - Formatando a barra.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0305 - Formatando a barra.mp4",
+          "tamanho": 27884483,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:07:40.904Z"
+        },
+        {
+          "nome": "0306 - Adicionando a configuração.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0306 - Adicionando a configuração.mp4",
+          "tamanho": 32593328,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:07:47.997Z"
+        },
+        {
+          "nome": "0307 - Formatando os controles.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0307 - Formatando os controles.mp4",
+          "tamanho": 65210052,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:07:59.009Z"
+        },
+        {
+          "nome": "0308 - Formatando o botão.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0308 - Formatando o botão.mp4",
+          "tamanho": 14029929,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:08:04.215Z"
+        },
+        {
+          "nome": "0309 - Opções de Maiúscula Números e Símbolos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0309 - Opções de Maiúscula Números e Símbolos.mp4",
+          "tamanho": 52658685,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:08:13.576Z"
+        },
+        {
+          "nome": "0310 - Visualização do label Tamanho.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0310 - Visualização do label Tamanho.mp4",
+          "tamanho": 22173599,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:08:19.743Z"
+        },
+        {
+          "nome": "0311 - Ajustando a barra - Parte 1.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0311 - Ajustando a barra - Parte 1.mp4",
+          "tamanho": 56333214,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:08:29.138Z"
+        },
+        {
+          "nome": "0312 - Ajustando a barra - Parte 2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0312 - Ajustando a barra - Parte 2.mp4",
+          "tamanho": 43815271,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:08:37.344Z"
+        },
+        {
+          "nome": "0313 - Ajustando a barra - Parte 3.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0313 - Ajustando a barra - Parte 3.mp4",
+          "tamanho": 2994,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:08:38.196Z"
+        },
+        {
+          "nome": "0314 - Ajustando a barra - Parte 4.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0314 - Ajustando a barra - Parte 4.mp4",
+          "tamanho": 18716553,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:08:43.325Z"
+        },
+        {
+          "nome": "0315 - Ajustando a fonte do texto.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0315 - Ajustando a fonte do texto.mp4",
+          "tamanho": 34229214,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:08:51.450Z"
+        },
+        {
+          "nome": "0316 - Ajustando para mobile.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0316 - Ajustando para mobile.mp4",
+          "tamanho": 20081257,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:08:56.963Z"
+        },
+        {
+          "nome": "0317 - Evento para gerar novo password.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0317 - Evento para gerar novo password.mp4",
+          "tamanho": 11091125,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:08:59.393Z"
+        },
+        {
+          "nome": "0401 - Fechamento.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript - Gerador Senhas/0401 - Fechamento.mp4",
+          "tamanho": 17357663,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:09:05.460Z"
+        }
+      ]
+    },
+    {
+      "nome": "JavaScript Básico ao Avançado",
+      "aulas": [
+        {
+          "nome": "0201 - Estrutura padrão de um programa JavaScript.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0201 - Estrutura padrão de um programa JavaScript.mp4",
+          "tamanho": 17321101,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:10:30.810Z"
+        },
+        {
+          "nome": "0202 - Formatação e identação.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0202 - Formatação e identação.mp4",
+          "tamanho": 18342639,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:10:36.151Z"
+        },
+        {
+          "nome": "0203 - Comentários.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0203 - Comentários.mp4",
+          "tamanho": 23378060,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:10:41.594Z"
+        },
+        {
+          "nome": "0301 - Tipos de dados.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0301 - Tipos de dados.mp4",
+          "tamanho": 30614857,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:10:48.563Z"
+        },
+        {
+          "nome": "0302 - Strings.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0302 - Strings.mp4",
+          "tamanho": 20563031,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:10:54.757Z"
+        },
+        {
+          "nome": "0303 - Number.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0303 - Number.mp4",
+          "tamanho": 21328218,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:11:00.956Z"
+        },
+        {
+          "nome": "0304 - Boolean.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0304 - Boolean.mp4",
+          "tamanho": 10477437,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:11:05.069Z"
+        },
+        {
+          "nome": "0305 - Infinity.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0305 - Infinity.mp4",
+          "tamanho": 9990620,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:11:09.311Z"
+        },
+        {
+          "nome": "0306 - NaN.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0306 - NaN.mp4",
+          "tamanho": 10053598,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:11:13.882Z"
+        },
+        {
+          "nome": "0307 - Null e Undefined.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0307 - Null e Undefined.mp4",
+          "tamanho": 13256770,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:11:18.228Z"
+        },
+        {
+          "nome": "0308 - Object.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0308 - Object.mp4",
+          "tamanho": 18994267,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:11:23.873Z"
+        },
+        {
+          "nome": "0309 - Array.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0309 - Array.mp4",
+          "tamanho": 13183083,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:11:28.372Z"
+        },
+        {
+          "nome": "0310 - Date.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0310 - Date.mp4",
+          "tamanho": 17029964,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:11:33.883Z"
+        },
+        {
+          "nome": "0401 - Variáveis.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0401 - Variáveis.mp4",
+          "tamanho": 14394270,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:11:38.968Z"
+        },
+        {
+          "nome": "0402 - var scoped.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0402 - var scoped.mp4",
+          "tamanho": 31911174,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:11:46.212Z"
+        },
+        {
+          "nome": "0403 - let scoped.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0403 - let scoped.mp4",
+          "tamanho": 13305159,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:11:51.359Z"
+        },
+        {
+          "nome": "0404 - const scoped.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0404 - const scoped.mp4",
+          "tamanho": 16199187,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:11:56.214Z"
+        },
+        {
+          "nome": "0405 - Nomes e regras.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0405 - Nomes e regras.mp4",
+          "tamanho": 26158389,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:12:02.406Z"
+        },
+        {
+          "nome": "0501 - Declaration assignment var - let.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0501 - Declaration assignment var - let.mp4",
+          "tamanho": 16062253,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:12:07.989Z"
+        },
+        {
+          "nome": "0502 - Agrupamento de declarações.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0502 - Agrupamento de declarações.mp4",
+          "tamanho": 21404837,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:12:13.501Z"
+        },
+        {
+          "nome": "0503 - Concatenação e interpolação.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0503 - Concatenação e interpolação.mp4",
+          "tamanho": 42683132,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:12:21.127Z"
+        },
+        {
+          "nome": "0504 - Object.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0504 - Object.mp4",
+          "tamanho": 38060652,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:12:29.136Z"
+        },
+        {
+          "nome": "0505 - Array.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0505 - Array.mp4",
+          "tamanho": 58647168,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:12:38.734Z"
+        },
+        {
+          "nome": "0506 - Date.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0506 - Date.mp4",
+          "tamanho": 72201592,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:12:50.876Z"
+        },
+        {
+          "nome": "0601 - Aritméticos e precedência.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0601 - Aritméticos e precedência.mp4",
+          "tamanho": 17092291,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:12:56.416Z"
+        },
+        {
+          "nome": "0602 - Atribuições.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0602 - Atribuições.mp4",
+          "tamanho": 28135644,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:13:03.610Z"
+        },
+        {
+          "nome": "0603 - Atribuições.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0603 - Atribuições.mp4",
+          "tamanho": 10824745,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:13:08.823Z"
+        },
+        {
+          "nome": "0604 - Comparação.mkv.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0604 - Comparação.mkv.mp4",
+          "tamanho": 12157919,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:13:13.481Z"
+        },
+        {
+          "nome": "0605 - Comparação estrita.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0605 - Comparação estrita.mp4",
+          "tamanho": 15156019,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:13:18.457Z"
+        },
+        {
+          "nome": "0606 - Falsy e Truthy.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0606 - Falsy e Truthy.mp4",
+          "tamanho": 24107186,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:13:22.901Z"
+        },
+        {
+          "nome": "0607 - Lógicos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0607 - Lógicos.mp4",
+          "tamanho": 63191794,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:13:33.069Z"
+        },
+        {
+          "nome": "0701 - Fluxo de um programa.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0701 - Fluxo de um programa.mp4",
+          "tamanho": 19089785,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:13:38.641Z"
+        },
+        {
+          "nome": "0702 - IF.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0702 - IF.mp4",
+          "tamanho": 40851366,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:13:46.401Z"
+        },
+        {
+          "nome": "0703 - IF ELSE.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0703 - IF ELSE.mp4",
+          "tamanho": 28361322,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:13:53.183Z"
+        },
+        {
+          "nome": "0704 - IF ELSE IF.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0704 - IF ELSE IF.mp4",
+          "tamanho": 30917556,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:14:00.023Z"
+        },
+        {
+          "nome": "0705 - Ternário.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0705 - Ternário.mp4",
+          "tamanho": 26009739,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:14:06.330Z"
+        },
+        {
+          "nome": "0706 - Switch.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0706 - Switch.mp4",
+          "tamanho": 21315527,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:14:12.207Z"
+        },
+        {
+          "nome": "0707 - Try catch.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0707 - Try catch.mp4",
+          "tamanho": 56180506,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:14:22.030Z"
+        },
+        {
+          "nome": "0801 - While.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0801 - While.mp4",
+          "tamanho": 29286593,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:14:28.775Z"
+        },
+        {
+          "nome": "0802 - For.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0802 - For.mp4",
+          "tamanho": 26724524,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:14:35.163Z"
+        },
+        {
+          "nome": "0803 - For in.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0803 - For in.mp4",
+          "tamanho": 22636379,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:14:40.904Z"
+        },
+        {
+          "nome": "0804 - For of.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0804 - For of.mp4",
+          "tamanho": 11544893,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:14:45.116Z"
+        },
+        {
+          "nome": "0901 - Funções.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0901 - Funções.mp4",
+          "tamanho": 30218001,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:14:52.138Z"
+        },
+        {
+          "nome": "0902 - Retorno.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0902 - Retorno.mp4",
+          "tamanho": 13015601,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:14:57.056Z"
+        },
+        {
+          "nome": "0903 - Objeto arguments.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0903 - Objeto arguments.mp4",
+          "tamanho": 22972709,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:15:03.268Z"
+        },
+        {
+          "nome": "0904 - Valor vs Referência.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0904 - Valor vs Referência.mp4",
+          "tamanho": 32923895,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:15:10.009Z"
+        },
+        {
+          "nome": "0905 - Function scoped.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0905 - Function scoped.mp4",
+          "tamanho": 14041914,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:15:15.231Z"
+        },
+        {
+          "nome": "0906 - Arrow functions.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0906 - Arrow functions.mp4",
+          "tamanho": 15790105,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:15:21.048Z"
+        },
+        {
+          "nome": "0907 - Callbacks.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/0907 - Callbacks.mp4",
+          "tamanho": 32858948,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:15:28.178Z"
+        },
+        {
+          "nome": "1001 - Type casting e Type coersion.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1001 - Type casting e Type coersion.mp4",
+          "tamanho": 17879195,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:15:33.697Z"
+        },
+        {
+          "nome": "1002 - Number ↔ String.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1002 - Number ↔ String.mp4",
+          "tamanho": 11421634,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:15:38.322Z"
+        },
+        {
+          "nome": "1003 - Number e String ↔ Boolean.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1003 - Number e String ↔ Boolean.mp4",
+          "tamanho": 15149492,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:15:43.590Z"
+        },
+        {
+          "nome": "1004 - String ↔ Date.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1004 - String ↔ Date.mp4",
+          "tamanho": 25746208,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:15:50.334Z"
+        },
+        {
+          "nome": "1005 - String ↔ Array.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1005 - String ↔ Array.mp4",
+          "tamanho": 30165158,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:15:56.929Z"
+        },
+        {
+          "nome": "1006 - Casas decimais - formatação e arredondamento.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1006 - Casas decimais - formatação e arredondamento.mp4",
+          "tamanho": 46437316,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:16:05.051Z"
+        },
+        {
+          "nome": "1007 - Contando dígitos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1007 - Contando dígitos.mp4",
+          "tamanho": 6191768,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:16:07.383Z"
+        },
+        {
+          "nome": "1008 - Separando e juntando strings.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1008 - Separando e juntando strings.mp4",
+          "tamanho": 13579277,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:16:12.729Z"
+        },
+        {
+          "nome": "1009 - Maísculas e minúsculas.mkv.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1009 - Maísculas e minúsculas.mkv.mp4",
+          "tamanho": 13569211,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:16:17.460Z"
+        },
+        {
+          "nome": "1010 - Localizando strings.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1010 - Localizando strings.mp4",
+          "tamanho": 11555574,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:16:21.743Z"
+        },
+        {
+          "nome": "1011 - Substituindo strings.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1011 - Substituindo strings.mp4",
+          "tamanho": 18382313,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:16:27.694Z"
+        },
+        {
+          "nome": "1012 - Convertendo JSON.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1012 - Convertendo JSON.mp4",
+          "tamanho": 41731761,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:16:35.465Z"
+        },
+        {
+          "nome": "1101 - Métodos básicos de manipulação.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1101 - Métodos básicos de manipulação.mp4",
+          "tamanho": 64740124,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:16:43.808Z"
+        },
+        {
+          "nome": "1102 - Concatenação.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1102 - Concatenação.mp4",
+          "tamanho": 18332325,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:16:49.522Z"
+        },
+        {
+          "nome": "1103 - Desestruturação.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1103 - Desestruturação.mp4",
+          "tamanho": 19522995,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:16:54.693Z"
+        },
+        {
+          "nome": "1201 - Filter.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1201 - Filter.mp4",
+          "tamanho": 76862167,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:17:06.290Z"
+        },
+        {
+          "nome": "1202 - Map.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1202 - Map.mp4",
+          "tamanho": 45243457,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:17:14.442Z"
+        },
+        {
+          "nome": "1203 - Reduce.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1203 - Reduce.mp4",
+          "tamanho": 100361718,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:17:28.778Z"
+        },
+        {
+          "nome": "1301 - O que é o DOM.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1301 - O que é o DOM.mp4",
+          "tamanho": 46161028,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:17:38.034Z"
+        },
+        {
+          "nome": "1302 - Recuperando Elementos do DOM.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1302 - Recuperando Elementos do DOM.mp4",
+          "tamanho": 60023349,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:17:47.969Z"
+        },
+        {
+          "nome": "1303 - Recuperando Elementos do DOM da forma moderna.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1303 - Recuperando Elementos do DOM da forma moderna.mp4",
+          "tamanho": 101333280,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:18:02.209Z"
+        },
+        {
+          "nome": "1304 - Alterando dados de Elementos do DOM.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1304 - Alterando dados de Elementos do DOM.mp4",
+          "tamanho": 56642394,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:18:11.577Z"
+        },
+        {
+          "nome": "1305 - Criando Elementos dinâmicos no DOM.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1305 - Criando Elementos dinâmicos no DOM.mp4",
+          "tamanho": 70118456,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:18:22.156Z"
+        },
+        {
+          "nome": "1306 - Eventos do DOM.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1306 - Eventos do DOM.mp4",
+          "tamanho": 33041838,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:18:28.058Z"
+        },
+        {
+          "nome": "1307 - Evento de página carregada - DOMContentLoaded.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1307 - Evento de página carregada - DOMContentLoaded.mp4",
+          "tamanho": 48226513,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:18:36.403Z"
+        },
+        {
+          "nome": "1308 - Evento de clique - click.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1308 - Evento de clique - click.mp4",
+          "tamanho": 40005899,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:18:44.189Z"
+        },
+        {
+          "nome": "1309 - Evento de teclas - keydown e keyup.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1309 - Evento de teclas - keydown e keyup.mp4",
+          "tamanho": 67371390,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:18:55.035Z"
+        },
+        {
+          "nome": "1310 - Evento de formulário - onsubmit.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1310 - Evento de formulário - onsubmit.mp4",
+          "tamanho": 54081489,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:19:04.374Z"
+        },
+        {
+          "nome": "1311 - Manipulando style CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1311 - Manipulando style CSS.mp4",
+          "tamanho": 47607048,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:19:12.556Z"
+        },
+        {
+          "nome": "1312 - Manipulando class CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1312 - Manipulando class CSS.mp4",
+          "tamanho": 46860779,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:19:20.935Z"
+        },
+        {
+          "nome": "1401 - Promises e processamento assíncrono.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1401 - Promises e processamento assíncrono.mp4",
+          "tamanho": 131931438,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:19:37.967Z"
+        },
+        {
+          "nome": "1402 - Promise.all.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1402 - Promise.all.mp4",
+          "tamanho": 49807229,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:19:46.387Z"
+        },
+        {
+          "nome": "1501 - JSON.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1501 - JSON.mp4",
+          "tamanho": 21650941,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:19:52.274Z"
+        },
+        {
+          "nome": "1502 - Trabalhando com o JSON.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1502 - Trabalhando com o JSON.mp4",
+          "tamanho": 43002553,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:20:00.813Z"
+        },
+        {
+          "nome": "1601 - Ajax.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1601 - Ajax.mp4",
+          "tamanho": 27182999,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:20:07.082Z"
+        },
+        {
+          "nome": "1602 - Trabalhando com o AJAX.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/JavaScript Básico ao Avançado/1602 - Trabalhando com o AJAX.mp4",
+          "tamanho": 143946645,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:20:25.578Z"
+        }
+      ]
+    },
+    {
+      "nome": "Kapi Academy - API Supreme",
+      "aulas": [
+        {
+          "nome": "01 - A anatomia de uma API RESTful.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Kapi Academy - API Supreme/01 - A anatomia de uma API RESTful.mp4",
+          "tamanho": 77282681,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:20:47.888Z"
+        },
+        {
+          "nome": "02 - Métodos e Status Codes do protocolo HTTP.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Kapi Academy - API Supreme/02 - Métodos e Status Codes do protocolo HTTP.mp4",
+          "tamanho": 69776497,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:20:58.522Z"
+        },
+        {
+          "nome": "03 - Segurança em API RESTful.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Kapi Academy - API Supreme/03 - Segurança em API RESTful.mp4",
+          "tamanho": 90921881,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:21:11.497Z"
+        },
+        {
+          "nome": "04 - Versões em uma API RESTful.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Kapi Academy - API Supreme/04 - Versões em uma API RESTful.mp4",
+          "tamanho": 45244513,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:21:20.793Z"
+        },
+        {
+          "nome": "05 - Paginação, ordenação e filtros em uma API RESTful.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Kapi Academy - API Supreme/05 - Paginação, ordenação e filtros em uma API RESTful.mp4",
+          "tamanho": 50867827,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:21:29.303Z"
+        },
+        {
+          "nome": "06 - Políticas em APIs RESTful.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Kapi Academy - API Supreme/06 - Políticas em APIs RESTful.mp4",
+          "tamanho": 43678936,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:21:37.545Z"
+        },
+        {
+          "nome": "07 - Performance em APIs RESTful.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Kapi Academy - API Supreme/07 - Performance em APIs RESTful.mp4",
+          "tamanho": 83385714,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:21:50.075Z"
+        },
+        {
+          "nome": "08 - Como chegar ao NÍVEL SUPREMO em APIs RESTful.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Kapi Academy - API Supreme/08 - Como chegar ao NÍVEL SUPREMO em APIs RESTful.mp4",
+          "tamanho": 103226294,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:22:02.825Z"
+        }
+      ]
+    },
+    {
+      "nome": "Linux para Programadores",
+      "aulas": [
+        {
+          "nome": "0101 - Introdução ao Linux.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0101 - Introdução ao Linux.mp4",
+          "tamanho": 26800537,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:22:48.155Z"
+        },
+        {
+          "nome": "0102 - Instalando Virtual Box no Linux.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0102 - Instalando Virtual Box no Linux.mp4",
+          "tamanho": 42373384,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:22:56.169Z"
+        },
+        {
+          "nome": "0103 - Instalando o Linux na maquina virtual.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0103 - Instalando o Linux na maquina virtual.mp4",
+          "tamanho": 167906127,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:23:16.264Z"
+        },
+        {
+          "nome": "0104 - Conhecendo mais sobre o Linux.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0104 - Conhecendo mais sobre o Linux.mp4",
+          "tamanho": 147449627,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:23:34.693Z"
+        },
+        {
+          "nome": "0105 - Customizando o Linux com a sua cara - Parte 1.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0105 - Customizando o Linux com a sua cara - Parte 1.mp4",
+          "tamanho": 142996915,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:23:53.443Z"
+        },
+        {
+          "nome": "0105 - Customizando o Linux com a sua cara - Parte 2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0105 - Customizando o Linux com a sua cara - Parte 2.mp4",
+          "tamanho": 209182295,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:24:18.956Z"
+        },
+        {
+          "nome": "0105 - Customizando o Linux com a sua cara - Parte 3.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0105 - Customizando o Linux com a sua cara - Parte 3.mp4",
+          "tamanho": 73830899,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:24:30.219Z"
+        },
+        {
+          "nome": "0201 - Teoria e Ferramentas do Linux para Programadores.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0201 - Teoria e Ferramentas do Linux para Programadores.mp4",
+          "tamanho": 64226804,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:24:40.135Z"
+        },
+        {
+          "nome": "0202 - Como instalar ferramentas no linux.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0202 - Como instalar ferramentas no linux.mp4",
+          "tamanho": 80807729,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:24:51.085Z"
+        },
+        {
+          "nome": "0203 - Configurar ide vscode no linux para desenvolver.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0203 - Configurar ide vscode no linux para desenvolver.mp4",
+          "tamanho": 75943402,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:25:02.091Z"
+        },
+        {
+          "nome": "0301 - O que é Shell.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0301 - O que é Shell.mp4",
+          "tamanho": 13273029,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:25:04.890Z"
+        },
+        {
+          "nome": "0302 - Tipos de Shell.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0302 - Tipos de Shell.mp4",
+          "tamanho": 14939355,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:25:10.270Z"
+        },
+        {
+          "nome": "0303 - Instalando o zsh e o oh-my-zsh.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0303 - Instalando o zsh e o oh-my-zsh.mp4",
+          "tamanho": 86007489,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:25:22.301Z"
+        },
+        {
+          "nome": "0304 - Instalando o Terminal Hyper.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0304 - Instalando o Terminal Hyper.mp4",
+          "tamanho": 72557786,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:25:32.874Z"
+        },
+        {
+          "nome": "0305 - Customizando o terminal hyper.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0305 - Customizando o terminal hyper.mp4",
+          "tamanho": 107105467,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:25:46.903Z"
+        },
+        {
+          "nome": "0306 -  Produtividade usando terminal linux.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0306 -  Produtividade usando terminal linux.mp4",
+          "tamanho": 103261303,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:26:01.023Z"
+        },
+        {
+          "nome": "0401 - Teoria sobre sistema de arquivo no linux.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0401 - Teoria sobre sistema de arquivo no linux.mp4",
+          "tamanho": 24278761,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:26:04.850Z"
+        },
+        {
+          "nome": "0402 - Navegando entre diretório no terminal linux.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0402 - Navegando entre diretório no terminal linux.mp4",
+          "tamanho": 59191826,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:26:15.273Z"
+        },
+        {
+          "nome": "0403 - Informações de pasta e arquivos no terminal linux.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0403 - Informações de pasta e arquivos no terminal linux.mp4",
+          "tamanho": 62168760,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:26:24.971Z"
+        },
+        {
+          "nome": "0404 - Manipulando arquivo via terminal linux.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0404 - Manipulando arquivo via terminal linux.mp4",
+          "tamanho": 44248299,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:26:33.672Z"
+        },
+        {
+          "nome": "0405 - Algumas ferramentas do linux usando via terminal.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Linux para Programadores/0405 - Algumas ferramentas do linux usando via terminal.mp4",
+          "tamanho": 47102871,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:26:42.506Z"
+        }
+      ]
+    },
+    {
+      "nome": "Lógica de Programação Avançada",
+      "aulas": [
+        {
+          "nome": "U1A1 - Linguagem de programação.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U1A1 - Linguagem de programação.mp4",
+          "tamanho": 57351731,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:27:04.916Z"
+        },
+        {
+          "nome": "U1A2 - Primeiros comandos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U1A2 - Primeiros comandos.mp4",
+          "tamanho": 15255618,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:27:10.380Z"
+        },
+        {
+          "nome": "U1A3 - Criando seu primeiro código.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U1A3 - Criando seu primeiro código.mp4",
+          "tamanho": 32589432,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:27:19.235Z"
+        },
+        {
+          "nome": "U2A1 - Operadores.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U2A1 - Operadores.mp4",
+          "tamanho": 32863648,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:27:26.237Z"
+        },
+        {
+          "nome": "U2A2 - Variáveis.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U2A2 - Variáveis.mp4",
+          "tamanho": 21744704,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:27:31.805Z"
+        },
+        {
+          "nome": "U2A3 - Entrada de dados.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U2A3 - Entrada de dados.mp4",
+          "tamanho": 39092409,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:27:39.361Z"
+        },
+        {
+          "nome": "U2A4 - Tipos de dados.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U2A4 - Tipos de dados.mp4",
+          "tamanho": 15253344,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:27:44.355Z"
+        },
+        {
+          "nome": "U2A5 - Comparação.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U2A5 - Comparação.mp4",
+          "tamanho": 22188058,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:27:50.197Z"
+        },
+        {
+          "nome": "U2A6 - Comparação lógica.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U2A6 - Comparação lógica.mp4",
+          "tamanho": 63155071,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:28:01.589Z"
+        },
+        {
+          "nome": "U3A1 - Estruturas de decisão.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U3A1 - Estruturas de decisão.mp4",
+          "tamanho": 36583812,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:28:10.023Z"
+        },
+        {
+          "nome": "U3A2 - Explorando o IF.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U3A2 - Explorando o IF.mp4",
+          "tamanho": 66989676,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:28:21.873Z"
+        },
+        {
+          "nome": "U3A3 - Comparações complexas.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U3A3 - Comparações complexas.mp4",
+          "tamanho": 81905708,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:28:34.515Z"
+        },
+        {
+          "nome": "U4A1 - Estruturas de repetição.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U4A1 - Estruturas de repetição.mp4",
+          "tamanho": 41813511,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:28:42.965Z"
+        },
+        {
+          "nome": "U5A1 - Funções.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Avançada/U5A1 - Funções.mp4",
+          "tamanho": 57224427,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T21:28:52.647Z"
+        }
+      ]
     }
   ]
 }
