@@ -47,6 +47,7 @@ A [Dev Samurai](https://class.devsamurai.com.br/) encerrou suas atividades em 20
 - **Backend - Dominando o Postgres** (42 aulas)
 - **Carreira de Programador** (50 aulas)
 - **Flutter - Calculadora IMC** (aulas em breve)
+- **Flutter - Cardápio online** (aulas em breve)
 - **Flutter - Fluck Noris** (aulas em breve)
 - **Flutter - Lista de Leituras** (aulas em breve)
 - **Flutter Avançado** (aulas em breve)
