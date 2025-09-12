@@ -88,6 +88,32 @@
           "dataUpload": "2025-09-12T02:27:58.047Z"
         }
       ]
+    },
+    {
+      "nome": "Frontend - Formulário de Cadastro",
+      "aulas": [
+        {
+          "nome": "0401 - O que é e como funciona.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Formulário de Cadastro/0401 - O que é e como funciona.mp4",
+          "tamanho": 30477963,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:32:25.173Z"
+        },
+        {
+          "nome": "0402 - Desenvolvendo página para o Mobile.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Formulário de Cadastro/0402 - Desenvolvendo página para o Mobile.mp4",
+          "tamanho": 130971646,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:32:25.173Z"
+        },
+        {
+          "nome": "0403 - Adaptando layout para telas maiores.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Formulário de Cadastro/0403 - Adaptando layout para telas maiores.mp4",
+          "tamanho": 110080253,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:32:25.173Z"
+        }
+      ]
     }
   ]
 }
