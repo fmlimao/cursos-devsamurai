@@ -290,6 +290,226 @@
           "dataUpload": "2025-09-12T03:55:22.957Z"
         }
       ]
+    },
+    {
+      "nome": "Frontend - Curriculum HTML",
+      "aulas": [
+        {
+          "nome": "0102 - Instalando as ferramentas básicas.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Curriculum HTML/0102 - Instalando as ferramentas básicas.mp4",
+          "tamanho": 20125906,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.785Z"
+        },
+        {
+          "nome": "0103 - Criando o seu CV.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Curriculum HTML/0103 - Criando o seu CV.mp4",
+          "tamanho": 43033197,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.785Z"
+        }
+      ]
+    },
+    {
+      "nome": "Frontend - Entendo o HTML com o CSS",
+      "aulas": [
+        {
+          "nome": "0408 - Sintaxe CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0408 - Sintaxe CSS.mp4",
+          "tamanho": 56489895,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.785Z"
+        },
+        {
+          "nome": "0409 - Especificando largura e altura no CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0409 - Especificando largura e altura no CSS.mp4",
+          "tamanho": 20203920,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.785Z"
+        },
+        {
+          "nome": "0410 - Definindo margens em elementos com o CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0410 - Definindo margens em elementos com o CSS.mp4",
+          "tamanho": 55640022,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.785Z"
+        },
+        {
+          "nome": "0411 - Especificando paddings em elementos com o CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0411 - Especificando paddings em elementos com o CSS.mp4",
+          "tamanho": 42136355,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.785Z"
+        },
+        {
+          "nome": "0412 - Seletores CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0412 - Seletores CSS.mp4",
+          "tamanho": 13023052,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.785Z"
+        },
+        {
+          "nome": "0413 -  Seletores CSS Seletores simples.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0413 -  Seletores CSS Seletores simples.mp4",
+          "tamanho": 51975508,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.785Z"
+        },
+        {
+          "nome": "0414 - Seletores CSS Seletores combinados.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0414 - Seletores CSS Seletores combinados.mp4",
+          "tamanho": 48020161,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.785Z"
+        },
+        {
+          "nome": "0415 - Seletores CSS Seletores de pseudo-classes.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0415 - Seletores CSS Seletores de pseudo-classes.mp4",
+          "tamanho": 118053268,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.785Z"
+        },
+        {
+          "nome": "0416 - Seletores CSS Seletores de pseudo-elementos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0416 - Seletores CSS Seletores de pseudo-elementos.mp4",
+          "tamanho": 51715213,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.785Z"
+        },
+        {
+          "nome": "0417 - Seletores CSS Seletores de atributos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0417 - Seletores CSS Seletores de atributos.mp4",
+          "tamanho": 67307251,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.786Z"
+        },
+        {
+          "nome": "0419 - Cores.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0419 - Cores.mp4",
+          "tamanho": 25609278,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.786Z"
+        },
+        {
+          "nome": "0420 - Cores RGB e RGBA.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0420 - Cores RGB e RGBA.mp4",
+          "tamanho": 65385693,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.786Z"
+        },
+        {
+          "nome": "0421 - Cores HEX.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0421 - Cores HEX.mp4",
+          "tamanho": 33430293,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.786Z"
+        },
+        {
+          "nome": "0422 - Cores HSL.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0422 - Cores HSL.mp4",
+          "tamanho": 43797643,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.786Z"
+        },
+        {
+          "nome": "0423 - Cores Apresentando paleta de cores HEX (Extra).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0423 - Cores Apresentando paleta de cores HEX (Extra).mp4",
+          "tamanho": 28374092,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.786Z"
+        },
+        {
+          "nome": "0424 - Trabalhando com backgrounds no CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0424 - Trabalhando com backgrounds no CSS.mp4",
+          "tamanho": 60756333,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.786Z"
+        },
+        {
+          "nome": "0425 - Especificando bordas em elementos com o CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0425 - Especificando bordas em elementos com o CSS.mp4",
+          "tamanho": 55870355,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.786Z"
+        },
+        {
+          "nome": "0426 - Especificando outline em elementos com CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0426 - Especificando outline em elementos com CSS.mp4",
+          "tamanho": 31123821,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.786Z"
+        },
+        {
+          "nome": "0427 - Trabalhando com textos no CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0427 - Trabalhando com textos no CSS.mp4",
+          "tamanho": 66030151,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.786Z"
+        },
+        {
+          "nome": "0429 - Trabalhando com fontes no CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0429 - Trabalhando com fontes no CSS.mp4",
+          "tamanho": 65596063,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.787Z"
+        },
+        {
+          "nome": "0430 - Estilizando tabelas (Parte 1).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0430 - Estilizando tabelas (Parte 1).mp4",
+          "tamanho": 209969333,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.787Z"
+        },
+        {
+          "nome": "0431 - Estilizando tabelas (Parte 2).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0431 - Estilizando tabelas (Parte 2).mp4",
+          "tamanho": 64803895,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.787Z"
+        },
+        {
+          "nome": "0431 - Trabalhando com imagens no CSS.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0431 - Trabalhando com imagens no CSS.mp4",
+          "tamanho": 105817916,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.787Z"
+        },
+        {
+          "nome": "0432 - CSS Linear Gradients.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0432 - CSS Linear Gradients.mp4",
+          "tamanho": 41588829,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.787Z"
+        },
+        {
+          "nome": "0433 - CSS Radial Gradients (Extra).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0433 - CSS Radial Gradients (Extra).mp4",
+          "tamanho": 18887135,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.787Z"
+        },
+        {
+          "nome": "0433 - CSS Radial Gradients.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0433 - CSS Radial Gradients.mp4",
+          "tamanho": 36364084,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.787Z"
+        },
+        {
+          "nome": "0434 - CSS Text Shadow e Box Shadow.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0434 - CSS Text Shadow e Box Shadow.mp4",
+          "tamanho": 34351513,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.787Z"
+        },
+        {
+          "nome": "0436 - Media Queries.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Entendo o HTML com o CSS/0436 - Media Queries.mp4",
+          "tamanho": 53049749,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T04:06:30.787Z"
+        }
+      ]
     }
   ]
 }
