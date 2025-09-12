@@ -5149,6 +5149,147 @@
           "dataUpload": "2025-09-12T21:28:52.647Z"
         }
       ]
+    },
+    {
+      "nome": "Lógica de Programação Básica",
+      "aulas": [
+        {
+          "nome": "U1A1 - O que é ser um programador.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Básica/U1A1 - O que é ser um programador.mp4",
+          "tamanho": 44331803,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T22:40:45.995Z"
+        },
+        {
+          "nome": "U1A2 - Criando seu primeiro programa mentalmente.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Básica/U1A2 - Criando seu primeiro programa mentalmente.mp4",
+          "tamanho": 51299705,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T22:40:56.703Z"
+        },
+        {
+          "nome": "U1A3 - Desafio Lógica de Programação.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Lógica de Programação Básica/U1A3 - Desafio Lógica de Programação.mp4",
+          "tamanho": 45428578,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T22:41:07.314Z"
+        }
+      ]
+    },
+    {
+      "nome": "Minha Primeira Oportunidade",
+      "aulas": [
+        {
+          "nome": "Mentoria #001 - Boas vindas.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minha Primeira Oportunidade/Mentoria #001 - Boas vindas.mp4",
+          "tamanho": 125301371,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:03:51.081Z"
+        }
+      ]
+    },
+    {
+      "nome": "Minicurso Programar do Zero",
+      "aulas": [
+        {
+          "nome": "0101 - Diga oi para o mundo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0101 - Diga oi para o mundo.mp4",
+          "tamanho": 68547551,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:04:35.849Z"
+        },
+        {
+          "nome": "0102 - Criando seu primeiro programa mentalmente.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0102 - Criando seu primeiro programa mentalmente.mp4",
+          "tamanho": 39094188,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:04:50.727Z"
+        },
+        {
+          "nome": "0103 - Onde você pode chegar.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0103 - Onde você pode chegar.mp4",
+          "tamanho": 59671208,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:05:09.850Z"
+        },
+        {
+          "nome": "0201 - A linguagem de programação - Pra que serve.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0201 - A linguagem de programação - Pra que serve.mp4",
+          "tamanho": 33540767,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:05:23.253Z"
+        },
+        {
+          "nome": "0202 - Comandos básicos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0202 - Comandos básicos.mp4",
+          "tamanho": 41404200,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:05:37.242Z"
+        },
+        {
+          "nome": "0203 - Socorro!!! Mensagens de erro.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0203 - Socorro!!! Mensagens de erro.mp4",
+          "tamanho": 42996625,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:05:50.602Z"
+        },
+        {
+          "nome": "0301 - Para que serve.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0301 - Para que serve.mp4",
+          "tamanho": 36499635,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:06:01.647Z"
+        },
+        {
+          "nome": "0302 - Operadores Básicos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0302 - Operadores Básicos.mp4",
+          "tamanho": 77102021,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:06:15.440Z"
+        },
+        {
+          "nome": "0401 - Para que serve.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0401 - Para que serve.mp4",
+          "tamanho": 44717906,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:06:25.755Z"
+        },
+        {
+          "nome": "0501 - Como o computador toma decisões.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0501 - Como o computador toma decisões.mp4",
+          "tamanho": 30636593,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:06:34.841Z"
+        },
+        {
+          "nome": "0502 - Operadores de comparação e lógicos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0502 - Operadores de comparação e lógicos.mp4",
+          "tamanho": 29575258,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:06:42.392Z"
+        },
+        {
+          "nome": "0503 - Então.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0503 - Então.mp4",
+          "tamanho": 13537292,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:06:48.243Z"
+        },
+        {
+          "nome": "0601 - Porque organizar o código.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0601 - Porque organizar o código.mp4",
+          "tamanho": 15717952,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:06:55.710Z"
+        },
+        {
+          "nome": "0701 - Se você chegou até aqui parabéns!.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Minicurso Programar do Zero/0701 - Se você chegou até aqui parabéns!.mp4",
+          "tamanho": 18611633,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T23:07:01.811Z"
+        }
+      ]
     }
   ]
 }
