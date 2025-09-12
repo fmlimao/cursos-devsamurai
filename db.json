@@ -942,6 +942,863 @@
           "dataUpload": "2025-09-12T04:26:43.020Z"
         }
       ]
+    },
+    {
+      "nome": "Backend - Dominando o Postgres",
+      "aulas": [
+        {
+          "nome": "0101 - O que é um banco de dados!?.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0101 - O que é um banco de dados!?.mp4",
+          "tamanho": 71313818,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.778Z"
+        },
+        {
+          "nome": "0102 - Como funciona um banco de dados?.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0102 - Como funciona um banco de dados?.mp4",
+          "tamanho": 25279916,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0103 - Instalando o PostgreSQL.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0103 - Instalando o PostgreSQL.mp4",
+          "tamanho": 20697720,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0201 - O projeto.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0201 - O projeto.mp4",
+          "tamanho": 79520836,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0202 - Criando um Banco de Dados.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0202 - Criando um Banco de Dados.mp4",
+          "tamanho": 19059262,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0203 - Estrutura de um banco de dados.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0203 - Estrutura de um banco de dados.mp4",
+          "tamanho": 43658432,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0204 - Atributos e Tipos de Dados.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0204 - Atributos e Tipos de Dados.mp4",
+          "tamanho": 66283079,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0205 - Criando as tabelas do projeto.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0205 - Criando as tabelas do projeto.mp4",
+          "tamanho": 51943731,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0301 - O comando INSERT.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0301 - O comando INSERT.mp4",
+          "tamanho": 27810171,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0302 - O comando SELECT.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0302 - O comando SELECT.mp4",
+          "tamanho": 73032098,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0303 - O comando UPDATE.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0303 - O comando UPDATE.mp4",
+          "tamanho": 19597133,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0304 - O comando DELETE.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0304 - O comando DELETE.mp4",
+          "tamanho": 8893911,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0401 - Importanto através de planilhas Excel.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0401 - Importanto através de planilhas Excel.mp4",
+          "tamanho": 54306943,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0402 - Restaurando a partir de dumps SQL.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0402 - Restaurando a partir de dumps SQL.mp4",
+          "tamanho": 39366366,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0501 - Uso do LIKE para busca de padrões.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0501 - Uso do LIKE para busca de padrões.mp4",
+          "tamanho": 24013730,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0502 - Uso do IN para busca de múltiplos valores.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0502 - Uso do IN para busca de múltiplos valores.mp4",
+          "tamanho": 14163139,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0503 - Uso do BETWEEN para busca de valores entre intervalos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0503 - Uso do BETWEEN para busca de valores entre intervalos.mp4",
+          "tamanho": 15901231,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0504 - Uso do LIMIT para limitar a quantidade de valores e criar paginações.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0504 - Uso do LIMIT para limitar a quantidade de valores e criar paginações.mp4",
+          "tamanho": 16114903,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0601 - Recuperando os valores Mínimo e Máximo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0601 - Recuperando os valores Mínimo e Máximo.mp4",
+          "tamanho": 7122104,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0602 - Tirando a Contagem, Média e Soma.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0602 - Tirando a Contagem, Média e Soma.mp4",
+          "tamanho": 5346521,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0603 - Agrupando valores agregados com o GROUP BY.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0603 - Agrupando valores agregados com o GROUP BY.mp4",
+          "tamanho": 14003715,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.779Z"
+        },
+        {
+          "nome": "0701 - Entendendo de vez a Teoria dos Conjuntos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0701 - Entendendo de vez a Teoria dos Conjuntos.mp4",
+          "tamanho": 14255276,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0702 - Apelidando tabelas e colunas.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0702 - Apelidando tabelas e colunas.mp4",
+          "tamanho": 4819396,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0703 - Combinando tabelas com o INNER JOIN.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0703 - Combinando tabelas com o INNER JOIN.mp4",
+          "tamanho": 50401785,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0704 - Combinando tabelas com o LEFT JOIN.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0704 - Combinando tabelas com o LEFT JOIN.mp4",
+          "tamanho": 34487774,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0705 - Combinando tabelas com o RIGHT JOIN.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0705 - Combinando tabelas com o RIGHT JOIN.mp4",
+          "tamanho": 30875510,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0706 - Combinando tabelas com o SELF JOIN.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0706 - Combinando tabelas com o SELF JOIN.mp4",
+          "tamanho": 11398964,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0707 - Combinando resultados com o UNION.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0707 - Combinando resultados com o UNION.mp4",
+          "tamanho": 12156792,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0708 - Uso do ANY e ALL juntamente com Sub-SELECT.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0708 - Uso do ANY e ALL juntamente com Sub-SELECT.mp4",
+          "tamanho": 9675124,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0801 - Clientes VIP vs Normais.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0801 - Clientes VIP vs Normais.mp4",
+          "tamanho": 11076726,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0802 - Saldo por conta e geral.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0802 - Saldo por conta e geral.mp4",
+          "tamanho": 4982098,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0803 - Gastos por categoria.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0803 - Gastos por categoria.mp4",
+          "tamanho": 3483225,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0804 - Fluxo de Caixa.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0804 - Fluxo de Caixa.mp4",
+          "tamanho": 2774964,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0805 - Títulos Vencidos (parcelas e soma total).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0805 - Títulos Vencidos (parcelas e soma total).mp4",
+          "tamanho": 3634096,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0806 - Títulos futuros (parcelas e soma total).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0806 - Títulos futuros (parcelas e soma total).mp4",
+          "tamanho": 5745724,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0807 - Maiores devedores e pagadores.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0807 - Maiores devedores e pagadores.mp4",
+          "tamanho": 5537205,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.781Z"
+        },
+        {
+          "nome": "0901 - Transações.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0901 - Transações.mp4",
+          "tamanho": 46734104,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0902 - Funções.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0902 - Funções.mp4",
+          "tamanho": 12083980,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0903 - Views.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/0903 - Views.mp4",
+          "tamanho": 22797428,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "1001 - ORMs.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/1001 - ORMs.mp4",
+          "tamanho": 11246162,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "1002 - Principais bancos de dados do mercado e como trabalhar com cada um.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/1002 - Principais bancos de dados do mercado e como trabalhar com cada um.mp4",
+          "tamanho": 16900384,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "1003 - Bancos de dados na nuvem (hospedagem).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/1003 - Bancos de dados na nuvem (hospedagem).mp4",
+          "tamanho": 12004487,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "1004 - Outros tipos de banco de dados (NOSQL).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/1004 - Outros tipos de banco de dados (NOSQL).mp4",
+          "tamanho": 32960195,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "1005 - Se você chegou até aqui parabéns.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/1005 - Se você chegou até aqui parabéns.mp4",
+          "tamanho": 2406264,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "1101 - Trabalhando com Datas como um profissional.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/1101 - Trabalhando com Datas como um profissional.mp4",
+          "tamanho": 12958815,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "1102 - Uso do ENUM para normalizar valores.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Backend - Dominando o Postgres/1102 - Uso do ENUM para normalizar valores.mp4",
+          "tamanho": 9567801,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        }
+      ]
+    },
+    {
+      "nome": "Carreira de Programador",
+      "aulas": [
+        {
+          "nome": "0101 - Bem-Vindo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0101 - Bem-Vindo.mp4",
+          "tamanho": 22999419,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0102 - Cronograma.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0102 - Cronograma.mp4",
+          "tamanho": 31839006,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0103 - Dinâmica do Curso.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0103 - Dinâmica do Curso.mp4",
+          "tamanho": 23701832,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0201 - O programador da década de 60.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0201 - O programador da década de 60.mp4",
+          "tamanho": 57099033,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0202 - A Maldição de todo Programador.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0202 - A Maldição de todo Programador.mp4",
+          "tamanho": 40289299,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0203 - O Perfil dos \"novos\" Programadores.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0203 - O Perfil dos \"novos\" Programadores.mp4",
+          "tamanho": 52468816,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0203 - O Perfil dos novos Programadores.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0203 - O Perfil dos novos Programadores.mp4",
+          "tamanho": 52468816,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0301 - Os fundamentos mais importantes para sua vida profissional.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0301 - Os fundamentos mais importantes para sua vida profissional.mp4",
+          "tamanho": 34682445,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0302 - Introdução ao Mercado.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0302 - Introdução ao Mercado.mp4",
+          "tamanho": 22142786,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0303 - Introdução ao Marketing.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0303 - Introdução ao Marketing.mp4",
+          "tamanho": 12017942,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0304 - Introdução a Mídia.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0304 - Introdução a Mídia.mp4",
+          "tamanho": 9315592,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0305 - Introdução ao Conhecimento.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0305 - Introdução ao Conhecimento.mp4",
+          "tamanho": 21427451,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0401 - O que é o Canvas?.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0401 - O que é o Canvas?.mp4",
+          "tamanho": 32064946,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0402 - Como Preencher?.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0402 - Como Preencher?.mp4",
+          "tamanho": 22083918,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0501 - Erre aqui e nem a melhor faculdade no melhor curso com o melhor marketing pessoal irá te ajudar.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0501 - Erre aqui e nem a melhor faculdade no melhor curso com o melhor marketing pessoal irá te ajudar.mp4",
+          "tamanho": 46029120,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0502 - Os grandes mercados para se trabalhar - Números e estatísticas do mercado do TI.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0502 - Os grandes mercados para se trabalhar - Números e estatísticas do mercado do TI.mp4",
+          "tamanho": 10480713,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0503 - Os grandes mercados para se trabalhar - Melhores empresas de TI para se trabalhar no Brasil e no Exterior.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0503 - Os grandes mercados para se trabalhar - Melhores empresas de TI para se trabalhar no Brasil e no Exterior.mp4",
+          "tamanho": 43535725,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0504 - Os grandes mercados para se trabalhar - Os perfis de programadores mais desejados.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0504 - Os grandes mercados para se trabalhar - Os perfis de programadores mais desejados.mp4",
+          "tamanho": 18856209,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0505 - Qual o melhor perfil de empresa para eu trabalhar? - Pequenos escritórios.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0505 - Qual o melhor perfil de empresa para eu trabalhar? - Pequenos escritórios.mp4",
+          "tamanho": 10627992,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0506 - Qual o melhor perfil de empresa para eu trabalhar? - Agências de publicidade.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0506 - Qual o melhor perfil de empresa para eu trabalhar? - Agências de publicidade.mp4",
+          "tamanho": 11862785,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0507 - Qual o melhor perfil de empresa para eu trabalhar? - Fábricas de software e Consultorias.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0507 - Qual o melhor perfil de empresa para eu trabalhar? - Fábricas de software e Consultorias.mp4",
+          "tamanho": 13454076,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0508 - Qual o melhor perfil de empresa para eu trabalhar? - Empresas terceirizadas.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0508 - Qual o melhor perfil de empresa para eu trabalhar? - Empresas terceirizadas.mp4",
+          "tamanho": 6298433,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0509 - Qual o melhor perfil de empresa para eu trabalhar? - Instituições financeiras.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0509 - Qual o melhor perfil de empresa para eu trabalhar? - Instituições financeiras.mp4",
+          "tamanho": 8327323,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.782Z"
+        },
+        {
+          "nome": "0510 - Qual o melhor perfil de empresa para eu trabalhar? - Indústrias.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0510 - Qual o melhor perfil de empresa para eu trabalhar? - Indústrias.mp4",
+          "tamanho": 7324994,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0511 - Qual o melhor perfil de empresa para eu trabalhar? - Multinacionais.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0511 - Qual o melhor perfil de empresa para eu trabalhar? - Multinacionais.mp4",
+          "tamanho": 6972370,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0512 - Qual o melhor perfil de empresa para eu trabalhar? - Startup.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0512 - Qual o melhor perfil de empresa para eu trabalhar? - Startup.mp4",
+          "tamanho": 9883342,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0513 - A escolha do Mercado é um processo, não um evento.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0513 - A escolha do Mercado é um processo, não um evento.mp4",
+          "tamanho": 18293452,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0514 - Achando o seu - Porque o nicho é importante?.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0514 - Achando o seu - Porque o nicho é importante?.mp4",
+          "tamanho": 21083751,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0515 - Como escolher seu Nicho?.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0515 - Como escolher seu Nicho?.mp4",
+          "tamanho": 18965987,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0516 - Como escolher um Nicho? O critério dos 3 círculos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0516 - Como escolher um Nicho? O critério dos 3 círculos.mp4",
+          "tamanho": 7929860,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0517 - Como escolher um Nicho? As 2 perguntas perturbadoras.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0517 - Como escolher um Nicho? As 2 perguntas perturbadoras.mp4",
+          "tamanho": 3835659,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0518 - Como escolher um Nicho? O Modelo 7x de escolha.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0518 - Como escolher um Nicho? O Modelo 7x de escolha.mp4",
+          "tamanho": 16341848,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0519 - Nicho, como medir se é bom ou ruim?.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0519 - Nicho, como medir se é bom ou ruim?.mp4",
+          "tamanho": 7190344,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0520 - Interpretando os sinais do mercado.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0520 - Interpretando os sinais do mercado.mp4",
+          "tamanho": 12048320,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0521 - Testando o seu nicho.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0521 - Testando o seu nicho.mp4",
+          "tamanho": 3393491,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0522 - Canvas - Preenchendo a etapa Mercado.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0522 - Canvas - Preenchendo a etapa Mercado.mp4",
+          "tamanho": 3853912,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0601 - Marketing significa falar utilizando as palavras que as pessoas já tem dentro da cabeça.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0601 - Marketing significa falar utilizando as palavras que as pessoas já tem dentro da cabeça.mp4",
+          "tamanho": 49593615,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0601 - Marketing significa “falar” utilizando as palavras que as pessoas já tem “dentro da cabeça\".mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0601 - Marketing significa “falar” utilizando as palavras que as pessoas já tem “dentro da cabeça\".mp4",
+          "tamanho": 49593615,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0602 - O velho vs o \"novo\" marketing.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0602 - O velho vs o \"novo\" marketing.mp4",
+          "tamanho": 23699570,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0602 - O velho vs o novo marketing.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0602 - O velho vs o novo marketing.mp4",
+          "tamanho": 23699570,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0603 - Marketing de conteúdo?.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0603 - Marketing de conteúdo?.mp4",
+          "tamanho": 61507125,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0604 - A “nova” jornada do consumidor.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0604 - A “nova” jornada do consumidor.mp4",
+          "tamanho": 14671224,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0605 - Criando a sua oferta - A oferta deve ligar o ambiente externo ao interno.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0605 - Criando a sua oferta - A oferta deve ligar o ambiente externo ao interno.mp4",
+          "tamanho": 18186903,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0606 - Criando a sua oferta - Oferta não é característica.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0606 - Criando a sua oferta - Oferta não é característica.mp4",
+          "tamanho": 12411684,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0607 - Criando a sua oferta - Variáveis de uma oferta.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0607 - Criando a sua oferta - Variáveis de uma oferta.mp4",
+          "tamanho": 12030083,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0608 - Criando a sua oferta - Os 4 elementos de uma oferta irresistível.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0608 - Criando a sua oferta - Os 4 elementos de uma oferta irresistível.mp4",
+          "tamanho": 34104416,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0609 - Posicionamento - Como você gostaria de ser percebido?.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0609 - Posicionamento - Como você gostaria de ser percebido?.mp4",
+          "tamanho": 15521174,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0610 - Seu PUV (Posicionamento Único de Valor).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0610 - Seu PUV (Posicionamento Único de Valor).mp4",
+          "tamanho": 16396260,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.783Z"
+        },
+        {
+          "nome": "0611 - Objeções.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0611 - Objeções.mp4",
+          "tamanho": 27532005,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0613 - Canvas - Preenchendo a Etapa Marketing.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0613 - Canvas - Preenchendo a Etapa Marketing.mp4",
+          "tamanho": 2359868,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0701 - Os problemas dos canais e processos mais comuns.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0701 - Os problemas dos canais e processos mais comuns.mp4",
+          "tamanho": 10939040,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0702 - Uma nova abordagem baseando-se na Jornada do Consumidor.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0702 - Uma nova abordagem baseando-se na Jornada do Consumidor.mp4",
+          "tamanho": 10275139,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0703 - Fluxo de Trafego - Como as pessoas irão fechar negócio com você.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0703 - Fluxo de Trafego - Como as pessoas irão fechar negócio com você.mp4",
+          "tamanho": 37722999,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0704 - Seu Facebook.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0704 - Seu Facebook.mp4",
+          "tamanho": 84044054,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0705 - Seu YouTube.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0705 - Seu YouTube.mp4",
+          "tamanho": 78613590,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0706 - Seu Linkedin.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0706 - Seu Linkedin.mp4",
+          "tamanho": 48289046,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0707 - Seu Blog.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0707 - Seu Blog.mp4",
+          "tamanho": 48418329,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0708 - Seu Github.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0708 - Seu Github.mp4",
+          "tamanho": 59470267,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0709 - Seu CV Matador.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0709 - Seu CV Matador.mp4",
+          "tamanho": 47146277,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0710 - Registro do seu Domínio.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0710 - Registro do seu Domínio.mp4",
+          "tamanho": 14358763,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0711 - Porque ter SEU site é importante?.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0711 - Porque ter SEU site é importante?.mp4",
+          "tamanho": 54328243,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0712 - Instalação do WordPress e Plugins.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0712 - Instalação do WordPress e Plugins.mp4",
+          "tamanho": 28082679,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0713 - Conhecendo o Elementor (criador de páginas).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0713 - Conhecendo o Elementor (criador de páginas).mp4",
+          "tamanho": 63787100,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0714 - Ajustes finais do Seu Site.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0714 - Ajustes finais do Seu Site.mp4",
+          "tamanho": 20379273,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0715 - Sua Landing Page.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0715 - Sua Landing Page.mp4",
+          "tamanho": 130911649,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0716 - O que publicar?.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0716 - O que publicar?.mp4",
+          "tamanho": 63336801,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0717 - Canvas - Preenchendo a Etapa Mídia.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0717 - Canvas - Preenchendo a Etapa Mídia.mp4",
+          "tamanho": 6707952,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0801 - O que aprender?.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0801 - O que aprender?.mp4",
+          "tamanho": 12023668,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0802 - Mapa de Estudo Completo com TODAS as áreas da Programação e TI.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0802 - Mapa de Estudo Completo com TODAS as áreas da Programação e TI.mp4",
+          "tamanho": 20780969,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.784Z"
+        },
+        {
+          "nome": "0803 - Canvas - Preenchendo a Etapa Conhecimento.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0803 - Canvas - Preenchendo a Etapa Conhecimento.mp4",
+          "tamanho": 10234552,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.787Z"
+        },
+        {
+          "nome": "0901 - Formula #1 - Meu primeiro emprego na TI.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0901 - Formula #1 - Meu primeiro emprego na TI.mp4",
+          "tamanho": 148569371,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.787Z"
+        },
+        {
+          "nome": "0902 - Formula #2 - Quero um bom salário.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0902 - Formula #2 - Quero um bom salário.mp4",
+          "tamanho": 43918551,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.787Z"
+        },
+        {
+          "nome": "0903 - Fórmula #3 - Quero trabalhar remoto (viver em REAL e ganhar em Dólares).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0903 - Fórmula #3 - Quero trabalhar remoto (viver em REAL e ganhar em Dólares).mp4",
+          "tamanho": 76663282,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.787Z"
+        },
+        {
+          "nome": "0904 - Formula #4 - Quero mais qualidade de vida.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0904 - Formula #4 - Quero mais qualidade de vida.mp4",
+          "tamanho": 33650722,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.787Z"
+        },
+        {
+          "nome": "0905 - Fórmula #5 - Quero ser freelance.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Carreira de Programador/0905 - Fórmula #5 - Quero ser freelance.mp4",
+          "tamanho": 59038868,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T15:02:45.787Z"
+        }
+      ]
     }
   ]
 }
