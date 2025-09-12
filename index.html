@@ -452,6 +452,11 @@
         <div id="video-section" style="display: none;">
             <button class="back-btn" onclick="showCourses()">← Voltar aos Cursos</button>
 
+            <!-- Header do curso atual -->
+            <div class="course-card" id="current-course-header" style="margin-bottom: 30px;">
+                <!-- Informações do curso serão carregadas aqui -->
+            </div>
+
             <div class="video-section-container">
                 <!-- Sidebar de aulas -->
                 <div class="lessons-sidebar">
@@ -602,6 +607,7 @@
 
             currentLessonIndex = 0;
             showVideoSection();
+            updateCurrentCourseInfo();
             loadLessons();
             loadCurrentVideo();
         }
@@ -680,9 +686,37 @@
                 // Atualiza a lista de aulas para mostrar que foi assistida
                 loadLessons();
 
-                // Atualiza a lista de cursos para mostrar o progresso
-                displayCourses();
-            });
+        // Atualiza as informações do curso atual
+        updateCurrentCourseInfo();
+    });
+}
+
+        // Atualiza as informações do curso atual
+        function updateCurrentCourseInfo() {
+            if (!currentCourse) return;
+
+            const progress = getCourseProgress(currentCourse.nome);
+            const watchedCount = userProgress[currentCourse.nome] ?
+                userProgress[currentCourse.nome].watchedLessons.length : 0;
+
+            // Atualiza o header do curso
+            const courseHeader = document.getElementById('current-course-header');
+            if (courseHeader) {
+                courseHeader.innerHTML = `
+                    <div class="course-title">${currentCourse.nome}</div>
+                    <div class="course-info">
+                        📹 ${currentCourse.aulas.length} aula(s) • ${watchedCount} assistida(s)
+                    </div>
+                    <div class="course-progress-info">
+                        <div class="course-progress">
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: ${progress}%"></div>
+                            </div>
+                            <div class="progress-text">${progress}%</div>
+                        </div>
+                    </div>
+                `;
+            }
         }
 
         // Navega para a aula anterior
