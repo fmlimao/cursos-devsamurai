@@ -1,0 +1,15 @@
+{
+  "name": "gcp-upload-job",
+  "version": "1.0.0",
+  "description": "Job para upload de arquivos no Google Cloud Storage",
+  "main": "job-upload.js",
+  "scripts": {
+    "start": "node job-upload.js"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^7.7.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

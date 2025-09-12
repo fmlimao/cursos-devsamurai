@@ -1,0 +1,93 @@
+{
+  "cursos": [
+    {
+      "nome": "Frontend - Flexbox",
+      "aulas": [
+        {
+          "nome": "0201 - O que é Flexbox Por que utilizar.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Flexbox/0201 - O que é Flexbox Por que utilizar.mp4",
+          "tamanho": 50243320,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:27:58.046Z"
+        },
+        {
+          "nome": "0202 - Display Flex.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Flexbox/0202 - Display Flex.mp4",
+          "tamanho": 20284364,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:27:58.046Z"
+        },
+        {
+          "nome": "0203 - Flex Direction.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Flexbox/0203 - Flex Direction.mp4",
+          "tamanho": 26015990,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:27:58.046Z"
+        },
+        {
+          "nome": "0204 - Flex Wrap.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Flexbox/0204 - Flex Wrap.mp4",
+          "tamanho": 27571852,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:27:58.046Z"
+        },
+        {
+          "nome": "0205 - Flex Flow.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Flexbox/0205 - Flex Flow.mp4",
+          "tamanho": 27553426,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:27:58.047Z"
+        },
+        {
+          "nome": "0206 - Justify Content.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Flexbox/0206 - Justify Content.mp4",
+          "tamanho": 48617521,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:27:58.047Z"
+        },
+        {
+          "nome": "0207 - Align items.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Flexbox/0207 - Align items.mp4",
+          "tamanho": 50152754,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:27:58.047Z"
+        },
+        {
+          "nome": "0208 - Align Content.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Flexbox/0208 - Align Content.mp4",
+          "tamanho": 46560588,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:27:58.047Z"
+        },
+        {
+          "nome": "0209 - Flex Grow.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Flexbox/0209 - Flex Grow.mp4",
+          "tamanho": 46061325,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:27:58.047Z"
+        },
+        {
+          "nome": "0210 - Flex Basis.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Flexbox/0210 - Flex Basis.mp4",
+          "tamanho": 47130961,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:27:58.047Z"
+        },
+        {
+          "nome": "0211 - Flex Shrink.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Flexbox/0211 - Flex Shrink.mp4",
+          "tamanho": 47645906,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:27:58.047Z"
+        },
+        {
+          "nome": "0212 - Order.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Frontend - Flexbox/0212 - Order.mp4",
+          "tamanho": 37984755,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-12T02:27:58.047Z"
+        }
+      ]
+    }
+  ]
+}
