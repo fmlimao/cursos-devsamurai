@@ -6038,6 +6038,186 @@
           "dataUpload": "2025-09-12T23:53:38.207Z"
         }
       ]
+    },
+    {
+      "nome": "Python Avançado",
+      "aulas": [
+        {
+          "nome": "0101 - lambda.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0101 - lambda.mp4",
+          "tamanho": 18980317,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:00.078Z"
+        },
+        {
+          "nome": "0102 - ListComprehension.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0102 - ListComprehension.mp4",
+          "tamanho": 23861120,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:00.258Z"
+        },
+        {
+          "nome": "0103 - ListComprehension pt2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0103 - ListComprehension pt2.mp4",
+          "tamanho": 29640313,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:00.514Z"
+        },
+        {
+          "nome": "0104 - ListComprehension pt3.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0104 - ListComprehension pt3.mp4",
+          "tamanho": 39451361,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:00.693Z"
+        },
+        {
+          "nome": "0201 -Tuplas.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0201 -Tuplas.mp4",
+          "tamanho": 31160619,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:00.861Z"
+        },
+        {
+          "nome": "0202 - Set.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0202 - Set.mp4",
+          "tamanho": 21571476,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:01.027Z"
+        },
+        {
+          "nome": "0203 - Dicionario pt1.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0203 - Dicionario pt1.mp4",
+          "tamanho": 21093612,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:01.190Z"
+        },
+        {
+          "nome": "0204 - Dicionario pt2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0204 - Dicionario pt2.mp4",
+          "tamanho": 24980250,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:01.366Z"
+        },
+        {
+          "nome": "0205 - Dicionario pt3.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0205 - Dicionario pt3.mp4",
+          "tamanho": 32535422,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:01.546Z"
+        },
+        {
+          "nome": "0206 - Dicionario pt4.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0206 - Dicionario pt4.mp4",
+          "tamanho": 33331422,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:01.743Z"
+        },
+        {
+          "nome": "0207 - Dicionario pt5.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0207 - Dicionario pt5.mp4",
+          "tamanho": 18417834,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:01.928Z"
+        },
+        {
+          "nome": "0301 - Arquivos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0301 - Arquivos.mp4",
+          "tamanho": 32053716,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:02.125Z"
+        },
+        {
+          "nome": "0302 - Arquivos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0302 - Arquivos.mp4",
+          "tamanho": 25361252,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:02.295Z"
+        },
+        {
+          "nome": "0303 - Arquivos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0303 - Arquivos.mp4",
+          "tamanho": 26486713,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:02.497Z"
+        },
+        {
+          "nome": "0304 - Arquivos Exercicio.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0304 - Arquivos Exercicio.mp4",
+          "tamanho": 28835345,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:02.677Z"
+        },
+        {
+          "nome": "0304 - Exercicio (atualização).mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0304 - Exercicio (atualização).mp4",
+          "tamanho": 8505458,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:02.856Z"
+        },
+        {
+          "nome": "0401 - Exceções.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0401 - Exceções.mp4",
+          "tamanho": 20560084,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:03.019Z"
+        },
+        {
+          "nome": "0402 - Exceções.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0402 - Exceções.mp4",
+          "tamanho": 37213814,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:03.215Z"
+        },
+        {
+          "nome": "0501 - POO.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0501 - POO.mp4",
+          "tamanho": 26842318,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:03.398Z"
+        },
+        {
+          "nome": "0502 - POO.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0502 - POO.mp4",
+          "tamanho": 23201465,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:03.575Z"
+        },
+        {
+          "nome": "0503 - Método construtor.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0503 - Método construtor.mp4",
+          "tamanho": 22485540,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:03.772Z"
+        },
+        {
+          "nome": "0504 - Métodos e atributos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0504 - Métodos e atributos.mp4",
+          "tamanho": 35196134,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:03.945Z"
+        },
+        {
+          "nome": "0505 - Herança pt 1.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0505 - Herança pt 1.mp4",
+          "tamanho": 20845625,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:04.116Z"
+        },
+        {
+          "nome": "0506 - Herança pt 2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0506 - Herança pt 2.mp4",
+          "tamanho": 39151410,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:04.295Z"
+        },
+        {
+          "nome": "0507 - Herança pt 3.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Avançado/0507 - Herança pt 3.mp4",
+          "tamanho": 18055379,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:22:04.460Z"
+        }
+      ]
     }
   ]
 }
