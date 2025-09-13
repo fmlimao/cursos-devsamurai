@@ -6218,6 +6218,158 @@
           "dataUpload": "2025-09-13T00:22:04.460Z"
         }
       ]
+    },
+    {
+      "nome": "Python Básico",
+      "aulas": [
+        {
+          "nome": "0101 - Introdução.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0101 - Introdução.mp4",
+          "tamanho": 25998913,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:40.342Z"
+        },
+        {
+          "nome": "0102 - GoogleColab.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0102 - GoogleColab.mp4",
+          "tamanho": 17072885,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:40.511Z"
+        },
+        {
+          "nome": "0201 - Operadores.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0201 - Operadores.mp4",
+          "tamanho": 18711742,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:41.095Z"
+        },
+        {
+          "nome": "0202 - Operadores.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0202 - Operadores.mp4",
+          "tamanho": 17274468,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:41.267Z"
+        },
+        {
+          "nome": "0203 - Variaveis.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0203 - Variaveis.mp4",
+          "tamanho": 20219787,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:41.440Z"
+        },
+        {
+          "nome": "0301 - FunçõesBuiltin.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0301 - FunçõesBuiltin.mp4",
+          "tamanho": 29760448,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:41.602Z"
+        },
+        {
+          "nome": "0302 -  Exercicios parte 1.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0302 -  Exercicios parte 1.mp4",
+          "tamanho": 34232007,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:41.770Z"
+        },
+        {
+          "nome": "0303 - Exercícios parte 2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0303 - Exercícios parte 2.mp4",
+          "tamanho": 31377123,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:41.958Z"
+        },
+        {
+          "nome": "0401 - Instrução If.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0401 - Instrução If.mp4",
+          "tamanho": 14624902,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:42.134Z"
+        },
+        {
+          "nome": "0402 - Instrução If exercícios.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0402 - Instrução If exercícios.mp4",
+          "tamanho": 26770598,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:42.311Z"
+        },
+        {
+          "nome": "0403 - Estrutura de repetição while.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0403 - Estrutura de repetição while.mp4",
+          "tamanho": 15845852,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:42.499Z"
+        },
+        {
+          "nome": "0404 - Estrutura de repeteção_for.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0404 - Estrutura de repeteção_for.mp4",
+          "tamanho": 22060590,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:42.672Z"
+        },
+        {
+          "nome": "0405 - Exercicios while.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0405 - Exercicios while.mp4",
+          "tamanho": 30262801,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:42.840Z"
+        },
+        {
+          "nome": "0406- Exercicios for.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0406- Exercicios for.mp4",
+          "tamanho": 32871737,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:43.022Z"
+        },
+        {
+          "nome": "0501 - Funções.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0501 - Funções.mp4",
+          "tamanho": 29855138,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:43.194Z"
+        },
+        {
+          "nome": "0502 - Funções Exercícios.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0502 - Funções Exercícios.mp4",
+          "tamanho": 24429370,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:43.369Z"
+        },
+        {
+          "nome": "0601 - Strings.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0601 - Strings.mp4",
+          "tamanho": 14687499,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:43.551Z"
+        },
+        {
+          "nome": "0602 - Indexação String.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0602 - Indexação String.mp4",
+          "tamanho": 18737426,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:43.729Z"
+        },
+        {
+          "nome": "0603 - Strings built_in.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0603 - Strings built_in.mp4",
+          "tamanho": 16520402,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:43.955Z"
+        },
+        {
+          "nome": "0604 - Listas.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0604 - Listas.mp4",
+          "tamanho": 18595595,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:44.126Z"
+        },
+        {
+          "nome": "0605 - Listas funções.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/Python Básico/0605 - Listas funções.mp4",
+          "tamanho": 25598592,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:24:44.297Z"
+        }
+      ]
     }
   ]
 }
