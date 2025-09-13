@@ -6370,6 +6370,60 @@
           "dataUpload": "2025-09-13T00:24:44.297Z"
         }
       ]
+    },
+    {
+      "nome": "React - Fundamentos",
+      "aulas": [
+        {
+          "nome": "0201 - O que é o React.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React - Fundamentos/0201 - O que é o React.mp4",
+          "tamanho": 18687459,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:25:54.225Z"
+        },
+        {
+          "nome": "0202 - Instalando os programas necessários.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React - Fundamentos/0202 - Instalando os programas necessários.mp4",
+          "tamanho": 7089841,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:25:56.888Z"
+        },
+        {
+          "nome": "0203 - Criando uma aplicação React.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React - Fundamentos/0203 - Criando uma aplicação React.mp4",
+          "tamanho": 9277924,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:26:01.900Z"
+        },
+        {
+          "nome": "0204 - Estrutura de Projeto React.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React - Fundamentos/0204 - Estrutura de Projeto React.mp4",
+          "tamanho": 8016838,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:26:05.649Z"
+        },
+        {
+          "nome": "0205 - Criando um componente.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React - Fundamentos/0205 - Criando um componente.mp4",
+          "tamanho": 28105718,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:26:15.762Z"
+        },
+        {
+          "nome": "0206 - Como o React funciona.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React - Fundamentos/0206 - Como o React funciona.mp4",
+          "tamanho": 10865364,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:26:20.540Z"
+        },
+        {
+          "nome": "0207 - O Ecossistema React.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React - Fundamentos/0207 - O Ecossistema React.mp4",
+          "tamanho": 15567503,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:26:27.115Z"
+        }
+      ]
     }
   ]
 }
