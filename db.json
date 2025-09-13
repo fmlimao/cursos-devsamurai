@@ -6607,6 +6607,39 @@
           "dataUpload": "2025-09-13T00:45:19.767Z"
         }
       ]
+    },
+    {
+      "nome": "React Native - Smart Money - Navigation V5",
+      "aulas": [
+        {
+          "nome": "0000 - Bem vindo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Smart Money - Navigation V5/0000 - Bem vindo.mp4",
+          "tamanho": 35159030,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:46:03.874Z"
+        },
+        {
+          "nome": "0001 - Introdução ao React Navigation V5.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Smart Money - Navigation V5/0001 - Introdução ao React Navigation V5.mp4",
+          "tamanho": 136383337,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:47:00.748Z"
+        },
+        {
+          "nome": "0002 - Alternativas ao getParam.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Smart Money - Navigation V5/0002 - Alternativas ao getParam.mp4",
+          "tamanho": 126183809,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:47:44.025Z"
+        },
+        {
+          "nome": "0003 - Os novos Hooks do React Navigation V5.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Smart Money - Navigation V5/0003 - Os novos Hooks do React Navigation V5.mp4",
+          "tamanho": 87501618,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:48:20.939Z"
+        }
+      ]
     }
   ]
 }
