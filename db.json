@@ -6567,6 +6567,46 @@
           "dataUpload": "2025-09-13T00:38:30.418Z"
         }
       ]
+    },
+    {
+      "nome": "React Native - Smart Money - Firebase",
+      "aulas": [
+        {
+          "nome": "0000 - Bem vindo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Smart Money - Firebase/0000 - Bem vindo.mp4",
+          "tamanho": 34867664,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:43:11.449Z"
+        },
+        {
+          "nome": "0001 - Introducão ao Firebase e configuração inicial.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Smart Money - Firebase/0001 - Introducão ao Firebase e configuração inicial.mp4",
+          "tamanho": 140751712,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:43:37.118Z"
+        },
+        {
+          "nome": "0002 - A primeiras adaptações do código.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Smart Money - Firebase/0002 - A primeiras adaptações do código.mp4",
+          "tamanho": 119296471,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:44:08.486Z"
+        },
+        {
+          "nome": "0003 - Finalizando a integração com o Firebase.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Smart Money - Firebase/0003 - Finalizando a integração com o Firebase.mp4",
+          "tamanho": 239339128,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:45:08.423Z"
+        },
+        {
+          "nome": "0004 - Corrigindo o campo entryAt.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Smart Money - Firebase/0004 - Corrigindo o campo entryAt.mp4",
+          "tamanho": 27009421,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:45:19.767Z"
+        }
+      ]
     }
   ]
 }
