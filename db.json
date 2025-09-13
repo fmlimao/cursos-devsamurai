@@ -6424,6 +6424,102 @@
           "dataUpload": "2025-09-13T00:26:27.115Z"
         }
       ]
+    },
+    {
+      "nome": "React Native - Calculadora IMC",
+      "aulas": [
+        {
+          "nome": "0000 - Bem-vindo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Calculadora IMC/0000 - Bem-vindo.mp4",
+          "tamanho": 20283173,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:30:58.782Z"
+        },
+        {
+          "nome": "0101 - Diga Oi para o seu App.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Calculadora IMC/0101 - Diga Oi para o seu App.mp4",
+          "tamanho": 108980103,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:31:25.310Z"
+        },
+        {
+          "nome": "0102 - Executando o Aplicativo no seu Smartphone.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Calculadora IMC/0102 - Executando o Aplicativo no seu Smartphone.mp4",
+          "tamanho": 62392408,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:31:41.561Z"
+        },
+        {
+          "nome": "0201 - Conhecendo seu primeiro aplicativo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Calculadora IMC/0201 - Conhecendo seu primeiro aplicativo.mp4",
+          "tamanho": 24670486,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:31:50.990Z"
+        },
+        {
+          "nome": "0202 - Criando o esqueleto da Calculadora de IMC - Parte 1.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Calculadora IMC/0202 - Criando o esqueleto da Calculadora de IMC - Parte 1.mp4",
+          "tamanho": 48092763,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:32:05.664Z"
+        },
+        {
+          "nome": "0203 - Criando o esqueleto da Calculadora de IMC - Parte 2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Calculadora IMC/0203 - Criando o esqueleto da Calculadora de IMC - Parte 2.mp4",
+          "tamanho": 132982404,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:32:49.030Z"
+        },
+        {
+          "nome": "0204 - Criando os valores estáticos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Calculadora IMC/0204 - Criando os valores estáticos.mp4",
+          "tamanho": 67817974,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:33:11.937Z"
+        },
+        {
+          "nome": "0205 - Criando a função de cálculo - Parte 1.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Calculadora IMC/0205 - Criando a função de cálculo - Parte 1.mp4",
+          "tamanho": 53586579,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:33:33.526Z"
+        },
+        {
+          "nome": "0206 - Criando a função de cálculo - Parte 2.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Calculadora IMC/0206 - Criando a função de cálculo - Parte 2.mp4",
+          "tamanho": 103925741,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:34:15.828Z"
+        },
+        {
+          "nome": "0207 - Criando a função de cálculo - Parte 3.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Calculadora IMC/0207 - Criando a função de cálculo - Parte 3.mp4",
+          "tamanho": 102107315,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:34:47.421Z"
+        },
+        {
+          "nome": "0208 - Ajustando os estilos.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Calculadora IMC/0208 - Ajustando os estilos.mp4",
+          "tamanho": 120850099,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:35:21.303Z"
+        },
+        {
+          "nome": "0209 - Distribuindo o app para seus amigos testarem.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Calculadora IMC/0209 - Distribuindo o app para seus amigos testarem.mp4",
+          "tamanho": 67349426,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:35:41.674Z"
+        },
+        {
+          "nome": "0210 - Parabéns e recomendações para a próxima etapa.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Calculadora IMC/0210 - Parabéns e recomendações para a próxima etapa.mp4",
+          "tamanho": 71193730,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:36:00.710Z"
+        }
+      ]
     }
   ]
 }
