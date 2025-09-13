@@ -6520,6 +6520,53 @@
           "dataUpload": "2025-09-13T00:36:00.710Z"
         }
       ]
+    },
+    {
+      "nome": "React Native - Publicando o Aplicativo",
+      "aulas": [
+        {
+          "nome": "0101 - Cadastrando seu usuário na PlayStore e taxas.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Publicando o Aplicativo/0101 - Cadastrando seu usuário na PlayStore e taxas.mp4",
+          "tamanho": 24750456,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:37:09.814Z"
+        },
+        {
+          "nome": "0102 - Cadastrando seu aplicativo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Publicando o Aplicativo/0102 - Cadastrando seu aplicativo.mp4",
+          "tamanho": 43902522,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:37:22.726Z"
+        },
+        {
+          "nome": "0103 - Publicação do aplicativo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Publicando o Aplicativo/0103 - Publicação do aplicativo.mp4",
+          "tamanho": 98345420,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:37:46.022Z"
+        },
+        {
+          "nome": "0201 - Cadastrando seu usuário na App Store e taxas.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Publicando o Aplicativo/0201 - Cadastrando seu usuário na App Store e taxas.mp4",
+          "tamanho": 44287656,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:37:58.003Z"
+        },
+        {
+          "nome": "0202 - Cadastrando seu aplicativo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Publicando o Aplicativo/0202 - Cadastrando seu aplicativo.mp4",
+          "tamanho": 43121201,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:38:12.404Z"
+        },
+        {
+          "nome": "0203 - Publicação do aplicativo.mp4",
+          "url": "https://storage.googleapis.com/curso-devsamurai-bucket/React Native - Publicando o Aplicativo/0203 - Publicação do aplicativo.mp4",
+          "tamanho": 64334560,
+          "extensao": ".mp4",
+          "dataUpload": "2025-09-13T00:38:30.418Z"
+        }
+      ]
     }
   ]
 }
