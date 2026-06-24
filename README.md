@@ -123,7 +123,7 @@ A [Dev Samurai](https://class.devsamurai.com.br/) encerrou suas atividades em 20
 
 A plataforma está disponível gratuitamente no GitHub Pages:
 
-**🔗 [Acessar Plataforma](https://seu-usuario.github.io/cursos-devsamurai/)**
+**🔗 [Acessar Plataforma](https://fmlimao.github.io/cursos-devsamurai/)**
 
 ### Estrutura do Projeto
 
@@ -190,7 +190,7 @@ Todo o conteúdo educacional é de propriedade da **Dev Samurai** e está sendo 
 
 Para dúvidas, sugestões ou problemas:
 
-- **GitHub Issues**: [Abrir uma issue](https://github.com/seu-usuario/cursos-devsamurai/issues)
+- **GitHub Issues**: [Abrir uma issue](https://github.com/fmlimao/cursos-devsamurai/issues)
 - **Email**: [seu-email@exemplo.com]
 
 ---
